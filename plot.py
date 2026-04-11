@@ -37,6 +37,12 @@ def val_loss(size, split):
             return r["final_val_loss"]
     return None
 
+# One ratio per model size (constant across splits — depends only on N)
+SIZE_RATIO = {}
+for r in data:
+    if r["size"] and r.get("ratio") and r["size"] not in SIZE_RATIO:
+        SIZE_RATIO[r["size"]] = r["ratio"]
+
 
 # ── fig 1 · loss grid heatmap ─────────────────────────────────────────────────
 fig, ax = plt.subplots(figsize=(6, 4.2))
@@ -63,13 +69,28 @@ for i, size in enumerate(SIZE_ORDER):
 ax.set_xticks(range(len(SPLIT_ORDER)))
 ax.set_xticklabels([f"{s}%" for s in SPLIT_ORDER], color="white", fontsize=11)
 ax.set_yticks(range(len(SIZE_ORDER)))
-ax.set_yticklabels(SIZE_ORDER, color="white", fontsize=11)
+ax.set_yticklabels([], color="white")   # drawn manually below
 ax.set_xlabel("Dataset split", color="white", fontsize=12)
 ax.set_ylabel("Model size", color="white", fontsize=12)
 ax.set_title("Final validation loss", color="white", fontsize=13, pad=10)
 ax.tick_params(colors="white")
 for spine in ax.spines.values():
     spine.set_edgecolor("#444")
+
+# y-axis: size name + N:D ratio below it
+# get_yaxis_transform() → x in axes coords, y in data coords
+for i, size in enumerate(SIZE_ORDER):
+    ax.text(-0.01, i - 0.18, size,
+            transform=ax.get_yaxis_transform(),
+            ha="right", va="center",
+            color="white", fontsize=11, fontweight="bold",
+            clip_on=False)
+    ratio_str = SIZE_RATIO.get(size, "")
+    ax.text(-0.01, i + 0.27, ratio_str,
+            transform=ax.get_yaxis_transform(),
+            ha="right", va="center",
+            color="#aaaaaa", fontsize=7, fontstyle="italic",
+            clip_on=False)
 
 cb = fig.colorbar(im, ax=ax, pad=0.02)
 cb.ax.yaxis.set_tick_params(color="white")
