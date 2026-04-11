@@ -6,7 +6,7 @@ Parse nanoGPT training log files in logs/ and emit a JSON summary with:
   - total_flops      (int, raw value from log)
 for every run found.
 """
-
+import math
 import json
 import re
 from pathlib import Path
@@ -62,6 +62,7 @@ def parse_log(path: Path) -> dict:
         "total_flops":      total_flops,
         "final_train_loss": final_train_loss,
         "final_val_loss":   final_val_loss,
+        "ratio":            f"1:{round(81_920_000/num_parameters)}",
     }
 
 

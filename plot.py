@@ -16,14 +16,15 @@ ROOT = Path(__file__).parent
 data = json.loads((ROOT / "results.json").read_text())
 complete = [r for r in data if r["final_val_loss"] is not None]
 
-SIZE_ORDER  = ["XS", "S", "M"]   # L run is incomplete
+SIZE_ORDER  = ["XS", "S", "M", "L"]
 SPLIT_ORDER = [10, 25, 50, 100]
-SIZE_PARAMS = {"XS": 119_168, "S": 828_672, "M": 10_745_088}
+SIZE_PARAMS = {"XS": 119_168, "S": 828_672, "M": 10_745_088, "L": 25_338_880}
 SIZE_FLOPS  = {"XS": 58_573_455_360_000,
                "S":  407_308_861_440_000,
-               "M":  5_281_425_653_760_000}
+               "M":  5_281_425_653_760_000,
+               "L":  12_454_566_297_600_000}
 
-SIZE_COLOR  = {"XS": "#4e79a7", "S": "#f28e2b", "M": "#e15759"}
+SIZE_COLOR  = {"XS": "#4e79a7", "S": "#f28e2b", "M": "#e15759", "L": "#76b7b2"}
 SPLIT_COLOR = {10: "#76b7b2", 25: "#59a14f", 50: "#edc948", 100: "#b07aa1"}
 
 FIGS = ROOT / "figures"
@@ -38,7 +39,7 @@ def val_loss(size, split):
 
 
 # ── fig 1 · loss grid heatmap ─────────────────────────────────────────────────
-fig, ax = plt.subplots(figsize=(6, 3.2))
+fig, ax = plt.subplots(figsize=(6, 4.2))
 fig.patch.set_facecolor("#1a1a2e")
 ax.set_facecolor("#1a1a2e")
 
@@ -47,16 +48,17 @@ grid = np.array([[val_loss(s, sp) or np.nan
                  for s in SIZE_ORDER], dtype=float)
 
 im = ax.imshow(grid, cmap="RdYlGn_r", aspect="auto",
-               vmin=np.nanmin(grid), vmax=min(np.nanmax(grid), 3.0))
+               vmin=np.nanmin(grid), vmax=np.nanmax(grid))
 
 # annotate cells
 for i, size in enumerate(SIZE_ORDER):
     for j, split in enumerate(SPLIT_ORDER):
         v = grid[i, j]
         txt = f"{v:.4f}" if not np.isnan(v) else "—"
-        color = "black" if 1.5 < v < 2.8 else "white"
+        mid = (np.nanmin(grid) + np.nanmax(grid)) / 2
+        color = "black" if np.nanmin(grid) < v < mid else "white"
         ax.text(j, i, txt, ha="center", va="center",
-                fontsize=11, fontweight="bold", color=color)
+                fontsize=10, fontweight="bold", color=color)
 
 ax.set_xticks(range(len(SPLIT_ORDER)))
 ax.set_xticklabels([f"{s}%" for s in SPLIT_ORDER], color="white", fontsize=11)
