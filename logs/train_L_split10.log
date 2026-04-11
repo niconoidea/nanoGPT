@@ -1,0 +1,11 @@
+======================================================================
+Run 13/16  |  size=L  split=10%
+Config : config/train_shakespeare_char_L.py
+Out dir: out-shakespeare-L-split10
+Log    : logs/train_L_split10.log
+======================================================================
+Command: /home/nico/uni/jupyter/Advanced NLP/.venv/bin/python train.py config/train_shakespeare_char_L.py --train_file=train_10.bin --out_dir=out-shakespeare-L-split10 --wandb_run_name=L-split10
+
+/home/nico/uni/jupyter/Advanced NLP/nanoGPT/train.py:198: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.
+  scaler = torch.cuda.amp.GradScaler(enabled=(dtype == 'float16'))
+W0411 10:39:01.851000 23367 torch/_inductor/utils.py:1731] [0/0] Not enough SMs to use max_autotune_gemm mode

@@ -1,6 +1,8 @@
 # train a miniature character-level shakespeare model
 # good for debugging and playing on macbooks and such
 
+#train_bin = 
+
 out_dir = 'out-shakespeare-char'
 eval_interval = 250 # keep frequent because we'll overfit
 eval_iters = 200
