@@ -1,0 +1,119 @@
+[
+  {
+    "run": "train_L_split10",
+    "size": "L",
+    "split_pct": 10,
+    "num_parameters": null,
+    "total_flops": null,
+    "final_train_loss": null,
+    "final_val_loss": null
+  },
+  {
+    "run": "train_M_split10",
+    "size": "M",
+    "split_pct": 10,
+    "num_parameters": 10745088,
+    "total_flops": 5281425653760000,
+    "final_train_loss": 0.0427,
+    "final_val_loss": 6.1214
+  },
+  {
+    "run": "train_M_split100",
+    "size": "M",
+    "split_pct": 100,
+    "num_parameters": 10745088,
+    "total_flops": 5281425653760000,
+    "final_train_loss": 0.6205,
+    "final_val_loss": 1.7195
+  },
+  {
+    "run": "train_M_split25",
+    "size": "M",
+    "split_pct": 25,
+    "num_parameters": 10745088,
+    "total_flops": 5281425653760000,
+    "final_train_loss": 0.0621,
+    "final_val_loss": 5.0272
+  },
+  {
+    "run": "train_M_split50",
+    "size": "M",
+    "split_pct": 50,
+    "num_parameters": 10745088,
+    "total_flops": 5281425653760000,
+    "final_train_loss": 0.1149,
+    "final_val_loss": 3.3239
+  },
+  {
+    "run": "train_S_split10",
+    "size": "S",
+    "split_pct": 10,
+    "num_parameters": 828672,
+    "total_flops": 407308861440000,
+    "final_train_loss": 0.7104,
+    "final_val_loss": 2.6899
+  },
+  {
+    "run": "train_S_split100",
+    "size": "S",
+    "split_pct": 100,
+    "num_parameters": 828672,
+    "total_flops": 407308861440000,
+    "final_train_loss": 1.3767,
+    "final_val_loss": 1.5821
+  },
+  {
+    "run": "train_S_split25",
+    "size": "S",
+    "split_pct": 25,
+    "num_parameters": 828672,
+    "total_flops": 407308861440000,
+    "final_train_loss": 1.1791,
+    "final_val_loss": 2.0293
+  },
+  {
+    "run": "train_S_split50",
+    "size": "S",
+    "split_pct": 50,
+    "num_parameters": 828672,
+    "total_flops": 407308861440000,
+    "final_train_loss": 1.3088,
+    "final_val_loss": 1.8914
+  },
+  {
+    "run": "train_XS_split10",
+    "size": "XS",
+    "split_pct": 10,
+    "num_parameters": 119168,
+    "total_flops": 58573455360000,
+    "final_train_loss": 1.7405,
+    "final_val_loss": 2.3882
+  },
+  {
+    "run": "train_XS_split100",
+    "size": "XS",
+    "split_pct": 100,
+    "num_parameters": 119168,
+    "total_flops": 58573455360000,
+    "final_train_loss": 1.9367,
+    "final_val_loss": 2.0535
+  },
+  {
+    "run": "train_XS_split25",
+    "size": "XS",
+    "split_pct": 25,
+    "num_parameters": 119168,
+    "total_flops": 58573455360000,
+    "final_train_loss": 1.8309,
+    "final_val_loss": 2.2783
+  },
+  {
+    "run": "train_XS_split50",
+    "size": "XS",
+    "split_pct": 50,
+    "num_parameters": 119168,
+    "total_flops": 58573455360000,
+    "final_train_loss": 1.902,
+    "final_val_loss": 2.1655
+  }
+]
