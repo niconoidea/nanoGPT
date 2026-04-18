@@ -1,0 +1,43 @@
+=== PRETRAINED ===
+
+
+AUFIDIUS:
+It it be my lords.
+SICINIUS:
+Would nothing with words.
+
+WARWICK:
+How your king of the auntiment loves the doth perform,
+I moner behold chose to too sister, thou art thou,
+Sir, but for should doth eavy skaw to be!
+3 KING HENRY VI:
+But he daughter what strikes, I say?
+So may lords best one 
+
+=== SINGLE A ===
+
+[SPEAKER] Longer, make merry! [ANSWER] DUKE VINCENTIO [END]
+[SPEAKER] And that to much I strike at all be [ANSWER] MENENIUS [END]
+[SPEAKER] Do not woeful are of his partity, some mummost of [ANSWER] PETRUCHIO [END]
+[SPEAKER] The dear unall in a-man scovereignted to tell. [ANSWER] KING RICHARD II [EN
+
+=== SINGLE B ===
+
+I have a badged 'tis not deament. [ANSWER] VERSE [END]
+[CLASSIFY] Prizman:
+I do have love you with half--, diving thy state
+That thy be mine. [ANSWER] VERSE [END]
+[CLASSIFY] GREMIO:
+True is:
+I have it is the doth leave be a will content
+Is as thou better and put his piecies,
+Unhis after his prayers 
+
+=== MULTI ===
+
+Whose I have nor of the just any call
+Believed Bona queen. [ANSWER] VERSE [END]
+[SPEAKER] My lord: in ssoul: but I have says the slace. [ANSWER] VERSE [END]
+[SPEAKER] Mistruck were thee follower dry sun. [ANSWER] VERSE [END]
+[CLASSIFY] PETRUCHIO:
+And they would not thy quardy of princege. [ANSWER] V

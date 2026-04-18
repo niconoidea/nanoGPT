@@ -1,0 +1,5 @@
+Setup,Pretrained (No SFT),Task A Acc,Task B Acc,Val Loss
+Random,,0.1,0.5,
+Single A,,0.13,,2.341296830177307
+Single B,,,0.75,1.618865405321121
+Multi,1.588476458787918,0.06,0.71,1.6144817864894867
