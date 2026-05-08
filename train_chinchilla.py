@@ -21,6 +21,7 @@ LOG_DIR.mkdir(exist_ok=True)
 total = len(SIZES) * len(SPLITS)
 run = 0
 
+# number of total tokens is fixed, since it is defined by max_iters x batch_size x block_size
 for size in SIZES:
     for split in SPLITS:
         run += 1
@@ -60,6 +61,8 @@ for size in SIZES:
                 text=True,
                 encoding='utf-8',
             )
+            
+            # Save the logs for later plotting
             for line in process.stdout:
                 print(line, end='', flush=True)
                 log.write(line)

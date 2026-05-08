@@ -1,0 +1,2690 @@
+[CLASSIFY] PRINCE EDWARD:
+An if they live, I hope I need not fear.
+But come, my lord; and with a heavy heart,
+Thinking on them, go I unto the Tower. [ANSWER] VERSE [END]
+[CLASSIFY] DUKE VINCENTIO:
+I protest I love the duke as I love myself. [ANSWER] PROSE [END]
+[CLASSIFY] DUCHESS OF YORK:
+Peace, children, peace! the king doth love you well:
+Incapable and shallow innocents,
+You cannot guess who caused your father's death. [ANSWER] VERSE [END]
+[CLASSIFY] GLOUCESTER:
+You may deny that you were not the cause
+Of my Lord Hastings' late imprisonment. [ANSWER] VERSE [END]
+[CLASSIFY] Provost:
+Here in the prison, father,
+There died this morning of a cruel fever
+One Ragozine, a most notorious pirate,
+A man of Claudio's years; his beard and head
+Just of his colour. What if we do omit
+This reprobate till he were well inclined;
+And satisfy the deputy with the visage
+Of Ragozine, more like to Claudio? [ANSWER] VERSE [END]
+[CLASSIFY] PETRUCHIO:
+Villain, I say, knock me at this gate
+And rap me well, or I'll knock your knave's pate. [ANSWER] VERSE [END]
+[CLASSIFY] CLIFFORD:
+Had thy brethren here, their lives and thine
+Were not revenge sufficient for me;
+No, if I digg'd up thy forefathers' graves
+And hung their rotten coffins up in chains,
+It could not slake mine ire, nor ease my heart.
+The sight of any of the house of York
+Is as a fury to torment my soul;
+And till I root out their accursed line
+And leave not one alive, I live in hell.
+Therefore-- [ANSWER] VERSE [END]
+[CLASSIFY] GLOUCESTER:
+Be patient, they are friends, Ratcliff and Lovel. [ANSWER] PROSE [END]
+[CLASSIFY] DUKE OF YORK:
+Thou frantic woman, what dost thou make here?
+Shall thy old dugs once more a traitor rear? [ANSWER] VERSE [END]
+[CLASSIFY] LADY CAPULET:
+So shall you feel the loss, but not the friend
+Which you weep for. [ANSWER] VERSE [END]
+[CLASSIFY] FLORIZEL:
+No, good sir;
+He has his health and ampler strength indeed
+Than most have of his age. [ANSWER] VERSE [END]
+[CLASSIFY] ISABELLA:
+Adoptedly; as school-maids change their names
+By vain though apt affection. [ANSWER] VERSE [END]
+[CLASSIFY] RICHMOND:
+What men of name are slain on either side? [ANSWER] PROSE [END]
+[CLASSIFY] LUCIO:
+I'll be hanged first: thou art deceived in me,
+friar. But no more of this. Canst thou tell if
+Claudio die to-morrow or no? [ANSWER] VERSE [END]
+[CLASSIFY] KING LEWIS XI:
+But, Warwick,
+Thou and Oxford, with five thousand men,
+Shall cross the seas, and bid false Edward battle;
+And, as occasion serves, this noble queen
+And prince shall follow with a fresh supply.
+Yet, ere thou go, but answer me one doubt,
+What pledge have we of thy firm loyalty? [ANSWER] VERSE [END]
+[CLASSIFY] VOLUMNIA:
+More noble blows than ever thou wise words;
+And for Rome's good. I'll tell thee what; yet go:
+Nay, but thou shalt stay too: I would my son
+Were in Arabia, and thy tribe before him,
+His good sword in his hand. [ANSWER] VERSE [END]
+[CLASSIFY] JOHN OF GAUNT:
+Now He that made me knows I see thee ill;
+Ill in myself to see, and in thee seeing ill.
+Thy death-bed is no lesser than thy land
+Wherein thou liest in reputation sick;
+And thou, too careless patient as thou art,
+Commit'st thy anointed body to the cure
+Of those physicians that first wounded thee:
+A thousand flatterers sit within thy crown,
+Whose compass is no bigger than thy head;
+And yet, incaged in so small a verge,
+The waste is no whit lesser than thy land.
+O, had thy grandsire with a prophet's eye
+Seen how his son's son should destroy his sons,
+From forth thy reach he would have laid thy shame,
+Deposing thee before thou wert possess'd,
+Which art possess'd now to depose thyself.
+Why, cousin, wert thou regent of the world,
+It were a shame to let this land by lease;
+But for thy world enjoying but this land,
+Is it not more than shame to shame it so?
+Landlord of England art thou now, not king:
+Thy state of law is bondslave to the law; And thou-- [ANSWER] VERSE [END]
+[CLASSIFY] GLOUCESTER:
+Welcome, good Clarence; this is brotherlike. [ANSWER] PROSE [END]
+[CLASSIFY] TRANIO:
+But youth in ladies' eyes that flourisheth. [ANSWER] PROSE [END]
+[CLASSIFY] CLEOMENES:
+The climate's delicate, the air most sweet,
+Fertile the isle, the temple much surpassing
+The common praise it bears. [ANSWER] VERSE [END]
+[CLASSIFY] BRAKENBURY:
+I beseech your graces both to pardon me;
+His majesty hath straitly given in charge
+That no man shall have private conference,
+Of what degree soever, with his brother. [ANSWER] VERSE [END]
+[CLASSIFY] Second Murderer:
+What, shall we stab him as he sleeps? [ANSWER] PROSE [END]
+[CLASSIFY] MENENIUS:
+Has he dined, canst thou tell? for I would not
+speak with him till after dinner. [ANSWER] VERSE [END]
+[CLASSIFY] BAPTISTA:
+How hast thou offended?
+Where is Lucentio? [ANSWER] VERSE [END]
+[CLASSIFY] DUKE VINCENTIO:
+Mended again. The matter; proceed. [ANSWER] PROSE [END]
+[CLASSIFY] DUCHESS OF YORK:
+Then patiently hear my impatience. [ANSWER] PROSE [END]
+[CLASSIFY] DUKE OF YORK:
+No matter, then, who see it;
+I will be satisfied; let me see the writing. [ANSWER] VERSE [END]
+[CLASSIFY] KING EDWARD IV:
+But you will take exceptions to my boon. [ANSWER] PROSE [END]
+[CLASSIFY] VIRGILIA:
+Beseech you, give me leave to retire myself. [ANSWER] PROSE [END]
+[CLASSIFY] CORIOLANUS:
+I beseech you, peace:
+Or, if you'ld ask, remember this before:
+The thing I have forsworn to grant may never
+Be held by you denials. Do not bid me
+Dismiss my soldiers, or capitulate
+Again with Rome's mechanics: tell me not
+Wherein I seem unnatural: desire not
+To ally my rages and revenges with
+Your colder reasons. [ANSWER] VERSE [END]
+[CLASSIFY] Citizens:
+Our enemy is banish'd! he is gone! Hoo! hoo! [ANSWER] PROSE [END]
+[CLASSIFY] PETRUCHIO:
+Nay, then you lie: it is the blessed sun. [ANSWER] PROSE [END]
+[CLASSIFY] ROMEO:
+There is thy gold, worse poison to men's souls,
+Doing more murders in this loathsome world,
+Than these poor compounds that thou mayst not sell.
+I sell thee poison; thou hast sold me none.
+Farewell: buy food, and get thyself in flesh.
+Come, cordial and not poison, go with me
+To Juliet's grave; for there must I use thee. [ANSWER] VERSE [END]
+[CLASSIFY] GLOUCESTER:
+Come, Warwick, take the time; kneel down, kneel down:
+Nay, when? strike now, or else the iron cools. [ANSWER] VERSE [END]
+[CLASSIFY] BIONDELLO:
+I cannot tell; expect they are busied about a
+counterfeit assurance: take you assurance of her,
+'cum privilegio ad imprimendum solum:' to the
+church; take the priest, clerk, and some sufficient
+honest witnesses: If this be not that you look for,
+I have no more to say, But bid Bianca farewell for
+ever and a day. [ANSWER] VERSE [END]
+[CLASSIFY] LUCIO:
+O pretty Isabella, I am pale at mine heart to see
+thine eyes so red: thou must be patient. I am fain
+to dine and sup with water and bran; I dare not for
+my head fill my belly; one fruitful meal would set
+me to 't. But they say the duke will be here
+to-morrow. By my troth, Isabel, I loved thy brother:
+if the old fantastical duke of dark corners had been
+at home, he had lived. [ANSWER] VERSE [END]
+[CLASSIFY] JULIET:
+Do not swear at all;
+Or, if thou wilt, swear by thy gracious self,
+Which is the god of my idolatry,
+And I'll believe thee. [ANSWER] VERSE [END]
+[CLASSIFY] PERDITA:
+I see the play so lies
+That I must bear a part. [ANSWER] VERSE [END]
+[CLASSIFY] MENENIUS:
+No, in such a case the gods will not be good unto
+us. When we banished him, we respected not them;
+and, he returning to break our necks, they respect not us. [ANSWER] VERSE [END]
+[CLASSIFY] LUCENTIO:
+Mistress, what's your opinion of your sister? [ANSWER] PROSE [END]
+[CLASSIFY] JULIET:
+No, no: but all this did I know before.
+What says he of our marriage? what of that? [ANSWER] VERSE [END]
+[CLASSIFY] LADY CAPULET:
+Here comes your father; tell him so yourself,
+And see how he will take it at your hands. [ANSWER] VERSE [END]
+[CLASSIFY] FRIAR JOHN:
+I could not send it,--here it is again,--
+Nor get a messenger to bring it thee,
+So fearful were they of infection. [ANSWER] VERSE [END]
+[CLASSIFY] EXTON:
+As full of valour as of royal blood:
+Both have I spill'd; O would the deed were good!
+For now the devil, that told me I did well,
+Says that this deed is chronicled in hell.
+This dead king to the living king I'll bear
+Take hence the rest, and give them burial here. [ANSWER] VERSE [END]
+[CLASSIFY] FLORIZEL:
+Dear, look up:
+Though Fortune, visible an enemy,
+Should chase us with my father, power no jot
+Hath she to change our loves. Beseech you, sir,
+Remember since you owed no more to time
+Than I do now: with thought of such affections,
+Step forth mine advocate; at your request
+My father will grant precious things as trifles. [ANSWER] VERSE [END]
+[CLASSIFY] KING HENRY VI:
+What title hast thou, traitor, to the crown?
+Thy father was, as thou art, Duke of York;
+Thy grandfather, Roger Mortimer, Earl of March:
+I am the son of Henry the Fifth,
+Who made the Dauphin and the French to stoop
+And seized upon their towns and provinces. [ANSWER] VERSE [END]
+[CLASSIFY] BALTHASAR:
+As I did sleep under this yew-tree here,
+I dreamt my master and another fought,
+And that my master slew him. [ANSWER] VERSE [END]
+[CLASSIFY] LORD STANLEY:
+They, for their truth, might better wear their heads
+Than some that have accused them wear their hats.
+But come, my lord, let us away. [ANSWER] VERSE [END]
+[CLASSIFY] KATHARINA:
+If that be jest, then all the rest was so. [ANSWER] PROSE [END]
+[CLASSIFY] TYRREL:
+Let me have open means to come to them,
+And soon I'll rid you from the fear of them. [ANSWER] VERSE [END]
+[CLASSIFY] KING HENRY VI:
+And I, with grief and sorrow, to the court. [ANSWER] PROSE [END]
+[CLASSIFY] LEONTES:
+At the queen's be't: 'good' should be pertinent
+But, so it is, it is not. Was this taken
+By any understanding pate but thine?
+For thy conceit is soaking, will draw in
+More than the common blocks: not noted, is't,
+But of the finer natures? by some severals
+Of head-piece extraordinary? lower messes
+Perchance are to this business purblind? say. [ANSWER] VERSE [END]
+[CLASSIFY] MOPSA:
+It becomes thy oath full well,
+Thou to me thy secrets tell. [ANSWER] VERSE [END]
+[CLASSIFY] ISABELLA:
+I have ta'en a due and wary note upon't:
+With whispering and most guilty diligence,
+In action all of precept, he did show me
+The way twice o'er. [ANSWER] VERSE [END]
+[CLASSIFY] ARIEL:
+Pardon, master;
+I will be correspondent to command
+And do my spiriting gently. [ANSWER] VERSE [END]
+[CLASSIFY] Second Lord:
+Peace, ho! no outrage: peace!
+The man is noble and his fame folds-in
+This orb o' the earth. His last offences to us
+Shall have judicious hearing. Stand, Aufidius,
+And trouble not the peace. [ANSWER] VERSE [END]
+[CLASSIFY] MARIANA:
+Noble prince,
+As there comes light from heaven and words from breath,
+As there is sense in truth and truth in virtue,
+I am affianced this man's wife as strongly
+As words could make up vows: and, my good lord,
+But Tuesday night last gone in's garden-house
+He knew me as a wife. As this is true,
+Let me in safety raise me from my knees
+Or else for ever be confixed here,
+A marble monument! [ANSWER] VERSE [END]
+[CLASSIFY] DUKE VINCENTIO:
+Angelo,
+There is a kind of character in thy life,
+That to the observer doth thy history
+Fully unfold. Thyself and thy belongings
+Are not thine own so proper as to waste
+Thyself upon thy virtues, they on thee.
+Heaven doth with us as we with torches do,
+Not light them for themselves; for if our virtues
+Did not go forth of us, 'twere all alike
+As if we had them not. Spirits are not finely touch'd
+But to fine issues, nor Nature never lends
+The smallest scruple of her excellence
+But, like a thrifty goddess, she determines
+Herself the glory of a creditor,
+Both thanks and use. But I do bend my speech
+To one that can my part in him advertise;
+Hold therefore, Angelo:--
+In our remove be thou at full ourself;
+Mortality and mercy in Vienna
+Live in thy tongue and heart: old Escalus,
+Though first in question, is thy secondary.
+Take thy commission. [ANSWER] VERSE [END]
+[CLASSIFY] FRIAR PETER:
+Now is your time: speak loud and kneel before him. [ANSWER] PROSE [END]
+[CLASSIFY] LADY ANNE:
+Their aunt I am in law, in love their mother:
+Then bring me to their sights; I'll bear thy blame
+And take thy office from thee, on my peril. [ANSWER] VERSE [END]
+[CLASSIFY] COMINIUS:
+You have brought
+A trembling upon Rome, such as was never
+So incapable of help. [ANSWER] VERSE [END]
+[CLASSIFY] GRUMIO:
+Out of their saddles into the dirt; and thereby
+hangs a tale. [ANSWER] VERSE [END]
+[CLASSIFY] Boatswain:
+None that I more love than myself. You are a
+counsellor; if you can command these elements to
+silence, and work the peace of the present, we will
+not hand a rope more; use your authority: if you
+cannot, give thanks you have lived so long, and make
+yourself ready in your cabin for the mischance of
+the hour, if it so hap. Cheerly, good hearts! Out
+of our way, I say. [ANSWER] VERSE [END]
+[CLASSIFY] KING EDWARD IV:
+Away, I say; I charge ye, bear her hence. [ANSWER] PROSE [END]
+[CLASSIFY] JOHN OF GAUNT:
+What is six winters? they are quickly gone. [ANSWER] PROSE [END]
+[CLASSIFY] ANGELO:
+Stay a little while.
+You're welcome: what's your will? [ANSWER] VERSE [END]
+[CLASSIFY] Third Citizen:
+We do, sir; tell us what hath brought you to't. [ANSWER] PROSE [END]
+[CLASSIFY] COMINIUS:
+I could myself
+Take up a brace o' the best of them; yea, the
+two tribunes:
+But now 'tis odds beyond arithmetic;
+And manhood is call'd foolery, when it stands
+Against a falling fabric. Will you hence,
+Before the tag return? whose rage doth rend
+Like interrupted waters and o'erbear
+What they are used to bear. [ANSWER] VERSE [END]
+[CLASSIFY] CORIOLANUS:
+The gods begin to mock me. I, that now
+Refused most princely gifts, am bound to beg
+Of my lord general. [ANSWER] VERSE [END]
+[CLASSIFY] HASTINGS:
+Gramercy, fellow: there, drink that for me. [ANSWER] PROSE [END]
+[CLASSIFY] Second Citizen:
+I promise you, I scarcely know myself:
+Hear you the news abroad? [ANSWER] VERSE [END]
+[CLASSIFY] DUCHESS OF YORK:
+Not yet, I thee beseech:
+For ever will I walk upon my knees,
+And never see day that the happy sees,
+Till thou give joy; until thou bid me joy,
+By pardoning Rutland, my transgressing boy. [ANSWER] VERSE [END]
+[CLASSIFY] LUCIO:
+If the duke with the other dukes come not to
+composition with the King of Hungary, why then all
+the dukes fall upon the king. [ANSWER] VERSE [END]
+[CLASSIFY] POLIXENES:
+Shepherdess,
+A fair one are you--well you fit our ages
+With flowers of winter. [ANSWER] VERSE [END]
+[CLASSIFY] DUKE OF YORK:
+As in a theatre, the eyes of men,
+After a well-graced actor leaves the stage,
+Are idly bent on him that enters next,
+Thinking his prattle to be tedious;
+Even so, or with much more contempt, men's eyes
+Did scowl on gentle Richard; no man cried 'God save him!'
+No joyful tongue gave him his welcome home:
+But dust was thrown upon his sacred head:
+Which with such gentle sorrow he shook off,
+His face still combating with tears and smiles,
+The badges of his grief and patience,
+That had not God, for some strong purpose, steel'd
+The hearts of men, they must perforce have melted
+And barbarism itself have pitied him.
+But heaven hath a hand in these events,
+To whose high will we bound our calm contents.
+To Bolingbroke are we sworn subjects now,
+Whose state and honour I for aye allow. [ANSWER] VERSE [END]
+[CLASSIFY] MENENIUS:
+I'll undertake 't:
+I think he'll hear me. Yet, to bite his lip
+And hum at good Cominius, much unhearts me.
+He was not taken well; he had not dined:
+The veins unfill'd, our blood is cold, and then
+We pout upon the morning, are unapt
+To give or to forgive; but when we have stuff'd
+These and these conveyances of our blood
+With wine and feeding, we have suppler souls
+Than in our priest-like fasts: therefore I'll watch him
+Till he be dieted to my request,
+And then I'll set upon him. [ANSWER] VERSE [END]
+[CLASSIFY] MONTAGUE:
+Ay, now my sovereign speaketh like himself;
+And now will I be Edward's champion. [ANSWER] VERSE [END]
+[CLASSIFY] KING RICHARD II:
+A lunatic lean-witted fool,
+Presuming on an ague's privilege,
+Darest with thy frozen admonition
+Make pale our cheek, chasing the royal blood
+With fury from his native residence.
+Now, by my seat's right royal majesty,
+Wert thou not brother to great Edward's son,
+This tongue that runs so roundly in thy head
+Should run thy head from thy unreverent shoulders. [ANSWER] VERSE [END]
+[CLASSIFY] MERCUTIO:
+O here's a wit of cheveril, that stretches from an
+inch narrow to an ell broad! [ANSWER] VERSE [END]
+[CLASSIFY] Second Murderer:
+Spoke like a tail fellow that respects his
+reputation. Come, shall we to this gear? [ANSWER] VERSE [END]
+[CLASSIFY] HORTENSIO:
+Sir, you say well and well you do conceive;
+And since you do profess to be a suitor,
+You must, as we do, gratify this gentleman,
+To whom we all rest generally beholding. [ANSWER] VERSE [END]
+[CLASSIFY] WESTMORELAND:
+Plantagenet, of thee and these thy sons,
+Thy kinsman and thy friends, I'll have more lives
+Than drops of blood were in my father's veins. [ANSWER] VERSE [END]
+[CLASSIFY] LUCIO:
+How doth my dear morsel, thy mistress? Procures she
+still, ha? [ANSWER] VERSE [END]
+[CLASSIFY] ANTONIO:
+What impossible matter will he make easy next? [ANSWER] PROSE [END]
+[CLASSIFY] WARWICK:
+So much his friend, ay, his unfeigned friend,
+That, if King Lewis vouchsafe to furnish us
+With some few bands of chosen soldiers,
+I'll undertake to land them on our coast
+And force the tyrant from his seat by war.
+'Tis not his new-made bride shall succor him:
+And as for Clarence, as my letters tell me,
+He's very likely now to fall from him,
+For matching more for wanton lust than honour,
+Or than for strength and safety of our country. [ANSWER] VERSE [END]
+[CLASSIFY] BRAKENBURY:
+I beseech your grace to pardon me, and withal
+Forbear your conference with the noble duke. [ANSWER] VERSE [END]
+[CLASSIFY] QUEEN ELIZABETH:
+But I hear, no; they say my son of York
+Hath almost overta'en him in his growth. [ANSWER] VERSE [END]
+[CLASSIFY] POMPEY:
+Why, very well; I hope here be truths. He, sir,
+sitting, as I say, in a lower chair, sir; 'twas in
+the Bunch of Grapes, where indeed you have a delight
+to sit, have you not? [ANSWER] VERSE [END]
+[CLASSIFY] First Lord:
+By his great authority;
+Which often hath no less prevail'd than so
+On your command. [ANSWER] VERSE [END]
+[CLASSIFY] LUCENTIO:
+I fly, Biondello: but they may chance to need thee
+at home; therefore leave us. [ANSWER] VERSE [END]
+[CLASSIFY] ANTONIO:
+Fie, what a spendthrift is he of his tongue! [ANSWER] PROSE [END]
+[CLASSIFY] KING RICHARD III:
+Out on you, owls! nothing but songs of death?
+Take that, until thou bring me better news. [ANSWER] VERSE [END]
+[CLASSIFY] JULIET:
+Well, do not swear: although I joy in thee,
+I have no joy of this contract to-night:
+It is too rash, too unadvised, too sudden;
+Too like the lightning, which doth cease to be
+Ere one can say 'It lightens.' Sweet, good night!
+This bud of love, by summer's ripening breath,
+May prove a beauteous flower when next we meet.
+Good night, good night! as sweet repose and rest
+Come to thy heart as that within my breast! [ANSWER] VERSE [END]
+[CLASSIFY] KING EDWARD IV:
+Yes, Warwick, Edward dares, and leads the way.
+Lords, to the field; Saint George and victory!
+3 KING HENRY VI [ANSWER] VERSE [END]
+[CLASSIFY] ISABELLA:
+I am the sister of one Claudio,
+Condemn'd upon the act of fornication
+To lose his head; condemn'd by Angelo:
+I, in probation of a sisterhood,
+Was sent to by my brother; one Lucio
+As then the messenger,-- [ANSWER] VERSE [END]
+[CLASSIFY] ANGELO:
+How now, sir! What's your name? and what's the matter? [ANSWER] PROSE [END]
+[CLASSIFY] KING EDWARD IV:
+Is Lewis so brave? belike he thinks me Henry.
+But what said Lady Bona to my marriage? [ANSWER] VERSE [END]
+[CLASSIFY] QUEEN MARGARET:
+I was; but I do find more pain in banishment
+Than death can yield me here by my abode.
+A husband and a son thou owest to me;
+And thou a kingdom; all of you allegiance:
+The sorrow that I have, by right is yours,
+And all the pleasures you usurp are mine. [ANSWER] VERSE [END]
+[CLASSIFY] ISABELLA:
+'Tis set down so in heaven, but not in earth. [ANSWER] PROSE [END]
+[CLASSIFY] GLOUCESTER:
+That it would please thee leave these sad designs
+To him that hath more cause to be a mourner,
+And presently repair to Crosby Place;
+Where, after I have solemnly interr'd
+At Chertsey monastery this noble king,
+And wet his grave with my repentant tears,
+I will with all expedient duty see you:
+For divers unknown reasons. I beseech you,
+Grant me this boon. [ANSWER] VERSE [END]
+[CLASSIFY] MERCUTIO:
+Good Peter, to hide her face; for her fan's the
+fairer face. [ANSWER] VERSE [END]
+[CLASSIFY] BIONDELLO:
+What, my old worshipful old master? yes, marry, sir:
+see where he looks out of the window. [ANSWER] VERSE [END]
+[CLASSIFY] ESCALUS:
+It is but needful:
+Mercy is not itself, that oft looks so;
+Pardon is still the nurse of second woe:
+But yet,--poor Claudio! There is no remedy.
+Come, sir. [ANSWER] VERSE [END]
+[CLASSIFY] KING EDWARD IV:
+Now, brother Richard, Lord Hastings, and the rest,
+Yet thus far fortune maketh us amends,
+And says that once more I shall interchange
+My waned state for Henry's regal crown.
+Well have we pass'd and now repass'd the seas
+And brought desired help from Burgundy:
+What then remains, we being thus arrived
+From Ravenspurgh haven before the gates of York,
+But that we enter, as into our dukedom? [ANSWER] VERSE [END]
+[CLASSIFY] ANTONIO:
+Noble Sebastian,
+Thou let'st thy fortune sleep--die, rather; wink'st
+Whiles thou art waking.
+ [ANSWER] VERSE [END]
+[CLASSIFY] PROSPERO:
+Dull thing, I say so; he, that Caliban
+Whom now I keep in service. Thou best know'st
+What torment I did find thee in; thy groans
+Did make wolves howl and penetrate the breasts
+Of ever angry bears: it was a torment
+To lay upon the damn'd, which Sycorax
+Could not again undo: it was mine art,
+When I arrived and heard thee, that made gape
+The pine and let thee out. [ANSWER] VERSE [END]
+[CLASSIFY] CLIFFORD:
+Patience is for poltroons, such as he:
+He durst not sit there, had your father lived.
+My gracious lord, here in the parliament
+Let us assail the family of York. [ANSWER] VERSE [END]
+[CLASSIFY] LADY ANNE:
+Fouler than heart can think thee, thou canst make
+No excuse current, but to hang thyself. [ANSWER] VERSE [END]
+[CLASSIFY] BUCKINGHAM:
+Nor no one here; for curses never pass
+The lips of those that breathe them in the air. [ANSWER] VERSE [END]
+[CLASSIFY] First Keeper:
+Under this thick-grown brake we'll shroud ourselves;
+For through this laund anon the deer will come;
+And in this covert will we make our stand,
+Culling the principal of all the deer. [ANSWER] VERSE [END]
+[CLASSIFY] KATHARINA:
+No shame but mine: I must, forsooth, be forced
+To give my hand opposed against my heart
+Unto a mad-brain rudesby full of spleen;
+Who woo'd in haste and means to wed at leisure.
+I told you, I, he was a frantic fool,
+Hiding his bitter jests in blunt behavior:
+And, to be noted for a merry man,
+He'll woo a thousand, 'point the day of marriage,
+Make feasts, invite friends, and proclaim the banns;
+Yet never means to wed where he hath woo'd.
+Now must the world point at poor Katharina,
+And say, 'Lo, there is mad Petruchio's wife,
+If it would please him come and marry her!' [ANSWER] VERSE [END]
+[CLASSIFY] FLORIZEL:
+Fortune speed us!
+Thus we set on, Camillo, to the sea-side. [ANSWER] VERSE [END]
+[CLASSIFY] Clown:
+Not a more cowardly rogue in all Bohemia: if you had
+but looked big and spit at him, he'ld have run. [ANSWER] VERSE [END]
+[CLASSIFY] GLOUCESTER:
+Ay, by my faith, for a poor earl to give:
+I'll do thee service for so good a gift. [ANSWER] VERSE [END]
+[CLASSIFY] CLAUDIO:
+Yes. Has he affections in him,
+That thus can make him bite the law by the nose,
+When he would force it? Sure, it is no sin,
+Or of the deadly seven, it is the least. [ANSWER] VERSE [END]
+[CLASSIFY] QUEEN ELIZABETH:
+I have no more sons of the royal blood
+For thee to murder: for my daughters, Richard,
+They shall be praying nuns, not weeping queens;
+And therefore level not to hit their lives. [ANSWER] VERSE [END]
+[CLASSIFY] FLORIZEL:
+These your unusual weeds to each part of you
+Do give a life: no shepherdess, but Flora
+Peering in April's front. This your sheep-shearing
+Is as a meeting of the petty gods,
+And you the queen on't. [ANSWER] VERSE [END]
+[CLASSIFY] QUEEN ELIZABETH:
+Say then, who dost thou mean shall be her king? [ANSWER] PROSE [END]
+[CLASSIFY] QUEEN ELIZABETH:
+What stay had I but Edward? and he's gone. [ANSWER] PROSE [END]
+[CLASSIFY] DUKE VINCENTIO:
+Not a resemblance, but a certainty. Yet since I see
+you fearful, that neither my coat, integrity, nor
+persuasion can with ease attempt you, I will go
+further than I meant, to pluck all fears out of you.
+Look you, sir, here is the hand and seal of the
+duke: you know the character, I doubt not; and the
+signet is not strange to you. [ANSWER] VERSE [END]
+[CLASSIFY] Lord:
+'Madam,' and nothing else: so lords
+call ladies. [ANSWER] VERSE [END]
+[CLASSIFY] MENENIUS:
+Why, so: you have made good work!
+A pair of tribunes that have rack'd for Rome,
+To make coals cheap,--a noble memory! [ANSWER] VERSE [END]
+[CLASSIFY] DUKE VINCENTIO:
+You have told me too many of him already, sir, if
+they be true; if not true, none were enough. [ANSWER] VERSE [END]
+[CLASSIFY] GRUMIO:
+Knock, sir! whom should I knock? is there man has
+rebused your worship? [ANSWER] VERSE [END]
+[CLASSIFY] HENRY PERCY:
+The grand conspirator, Abbot of Westminster,
+With clog of conscience and sour melancholy
+Hath yielded up his body to the grave;
+But here is Carlisle living, to abide
+Thy kingly doom and sentence of his pride. [ANSWER] VERSE [END]
+[CLASSIFY] Clown:
+Ay, and have been so any time these four hours. [ANSWER] PROSE [END]
+[CLASSIFY] SOMERSET:
+My lords, forbear this talk; here comes the king. [ANSWER] PROSE [END]
+[CLASSIFY] EARL OF SALISBURY:
+Ah, Richard, with the eyes of heavy mind
+I see thy glory like a shooting star
+Fall to the base earth from the firmament.
+Thy sun sets weeping in the lowly west,
+Witnessing storms to come, woe and unrest:
+Thy friends are fled to wait upon thy foes,
+And crossly to thy good all fortune goes. [ANSWER] VERSE [END]
+[CLASSIFY] Lieutenant:
+Sir, I beseech you, think you he'll carry Rome? [ANSWER] PROSE [END]
+[CLASSIFY] CLARENCE:
+Methoughts that I had broken from the Tower,
+And was embark'd to cross to Burgundy;
+And, in my company, my brother Gloucester;
+Who from my cabin tempted me to walk
+Upon the hatches: thence we looked toward England,
+And cited up a thousand fearful times,
+During the wars of York and Lancaster
+That had befall'n us. As we paced along
+Upon the giddy footing of the hatches,
+Methought that Gloucester stumbled; and, in falling,
+Struck me, that thought to stay him, overboard,
+Into the tumbling billows of the main.
+Lord, Lord! methought, what pain it was to drown!
+What dreadful noise of waters in mine ears!
+What ugly sights of death within mine eyes!
+Methought I saw a thousand fearful wrecks;
+Ten thousand men that fishes gnaw'd upon;
+Wedges of gold, great anchors, heaps of pearl,
+Inestimable stones, unvalued jewels,
+All scatter'd in the bottom of the sea:
+Some lay in dead men's skulls; and, in those holes
+Where eyes did once inhabit, there were crept,
+As 'twere in scorn of eyes, reflecting gems,
+Which woo'd the slimy bottom of the deep,
+And mock'd the dead bones that lay scatter'd by. [ANSWER] VERSE [END]
+[CLASSIFY] BUCKINGHAM:
+And, in good time, here comes the sweating lord. [ANSWER] PROSE [END]
+[CLASSIFY] YORK:
+Thanks, gentle Norfolk: stay by me, my lords;
+And, soldiers, stay and lodge by me this night. [ANSWER] VERSE [END]
+[CLASSIFY] MERCUTIO:
+And but one word with one of us? couple it with
+something; make it a word and a blow. [ANSWER] VERSE [END]
+[CLASSIFY] WARWICK:
+Why, then I would not fly. Ah, Montague,
+If thou be there, sweet brother, take my hand.
+And with thy lips keep in my soul awhile!
+Thou lovest me not; for, brother, if thou didst,
+Thy tears would wash this cold congealed blood
+That glues my lips and will not let me speak.
+Come quickly, Montague, or I am dead. [ANSWER] VERSE [END]
+[CLASSIFY] ANGELO:
+Good night.
+This deed unshapes me quite, makes me unpregnant
+And dull to all proceedings. A deflower'd maid!
+And by an eminent body that enforced
+The law against it! But that her tender shame
+Will not proclaim against her maiden loss,
+How might she tongue me! Yet reason dares her no;
+For my authority bears of a credent bulk,
+That no particular scandal once can touch
+But it confounds the breather. He should have lived,
+Save that riotous youth, with dangerous sense,
+Might in the times to come have ta'en revenge,
+By so receiving a dishonour'd life
+With ransom of such shame. Would yet he had lived!
+A lack, when once our grace we have forgot,
+Nothing goes right: we would, and we would not. [ANSWER] VERSE [END]
+[CLASSIFY] FRIAR LAURENCE:
+Unhappy fortune! by my brotherhood,
+The letter was not nice but full of charge
+Of dear import, and the neglecting it
+May do much danger. Friar John, go hence;
+Get me an iron crow, and bring it straight
+Unto my cell. [ANSWER] VERSE [END]
+[CLASSIFY] ROMEO:
+This day's black fate on more days doth depend;
+This but begins the woe, others must end. [ANSWER] VERSE [END]
+[CLASSIFY] ROMEO:
+I doubt it not; and all these woes shall serve
+For sweet discourses in our time to come. [ANSWER] VERSE [END]
+[CLASSIFY] DUKE VINCENTIO:
+Never crave him; we are definitive. [ANSWER] PROSE [END]
+[CLASSIFY] FRIAR LAURENCE:
+Be plain, good son, and homely in thy drift;
+Riddling confession finds but riddling shrift. [ANSWER] VERSE [END]
+[CLASSIFY] Nurse:
+Your lady mother is coming to your chamber:
+The day is broke; be wary, look about. [ANSWER] VERSE [END]
+[CLASSIFY] QUEEN ELIZABETH:
+An honest tale speeds best being plainly told. [ANSWER] PROSE [END]
+[CLASSIFY] LUCIO:
+For that which, if myself might be his judge,
+He should receive his punishment in thanks:
+He hath got his friend with child. [ANSWER] VERSE [END]
+[CLASSIFY] Shepherd:
+Well, let us to the king: there is that in this
+fardel will make him scratch his beard. [ANSWER] VERSE [END]
+[CLASSIFY] NORTHUMBERLAND:
+The noble duke hath sworn his coming is
+But for his own; and for the right of that
+We all have strongly sworn to give him aid;
+And let him ne'er see joy that breaks that oath! [ANSWER] VERSE [END]
+[CLASSIFY] POMPEY:
+Your friends, sir; the hangman. You must be so
+good, sir, to rise and be put to death. [ANSWER] VERSE [END]
+[CLASSIFY] DUCHESS OF YORK:
+I hope he is; but yet let mothers doubt. [ANSWER] PROSE [END]
+[CLASSIFY] LEONTES:
+Thou speak'st truth.
+No more such wives; therefore, no wife: one worse,
+And better used, would make her sainted spirit
+Again possess her corpse, and on this stage,
+Where we're offenders now, appear soul-vex'd,
+And begin, 'Why to me?' [ANSWER] VERSE [END]
+[CLASSIFY] NORTHUMBERLAND:
+Had he been slaughter-man to all my kin,
+I should not for my life but weep with him.
+To see how inly sorrow gripes his soul. [ANSWER] VERSE [END]
+[CLASSIFY] LUCIO:
+Hail, virgin, if you be, as those cheek-roses
+Proclaim you are no less! Can you so stead me
+As bring me to the sight of Isabella,
+A novice of this place and the fair sister
+To her unhappy brother Claudio? [ANSWER] VERSE [END]
+[CLASSIFY] Clown:
+Now, now: I have not winked since I saw these
+sights: the men are not yet cold under water, nor
+the bear half dined on the gentleman: he's at it
+now. [ANSWER] VERSE [END]
+[CLASSIFY] MERCUTIO:
+Come between us, good Benvolio; my wits faint. [ANSWER] PROSE [END]
+[CLASSIFY] BUCKINGHAM:
+To-morrow will it please you to be crown'd? [ANSWER] PROSE [END]
+[CLASSIFY] CAMILLO:
+He tells her something
+That makes her blood look out: good sooth, she is
+The queen of curds and cream. [ANSWER] VERSE [END]
+[CLASSIFY] First Murderer:
+So do not I: go, coward as thou art.
+Now must I hide his body in some hole,
+Until the duke take order for his burial:
+And when I have my meed, I must away;
+For this will out, and here I must not stay. [ANSWER] VERSE [END]
+[CLASSIFY] PRINCE EDWARD:
+But say, my lord, it were not register'd,
+Methinks the truth should live from age to age,
+As 'twere retail'd to all posterity,
+Even to the general all-ending day. [ANSWER] VERSE [END]
+[CLASSIFY] First Lord:
+Beseech your highness, give us better credit:
+We have always truly served you, and beseech you
+So to esteem of us, and on our knees we beg,
+As recompense of our dear services
+Past and to come, that you do change this purpose,
+Which being so horrible, so bloody, must
+Lead on to some foul issue: we all kneel. [ANSWER] VERSE [END]
+[CLASSIFY] BUSHY:
+Wherein the king stands generally condemn'd. [ANSWER] PROSE [END]
+[CLASSIFY] GLOUCESTER:
+I say, without characters, fame lives long.
+Thus, like the formal vice, Iniquity,
+I moralize two meanings in one word. [ANSWER] VERSE [END]
+[CLASSIFY] Gentleman:
+Ay, the most peerless piece of earth, I think,
+That e'er the sun shone bright on. [ANSWER] VERSE [END]
+[CLASSIFY] VOLUMNIA:
+This is a poor epitome of yours,
+Which by the interpretation of full time
+May show like all yourself. [ANSWER] VERSE [END]
+[CLASSIFY] BIONDELLO:
+Master, a mercatante, or a pedant,
+I know not what; but format in apparel,
+In gait and countenance surely like a father. [ANSWER] VERSE [END]
+[CLASSIFY] MENENIUS:
+Put them not to't:
+Pray you, go fit you to the custom and
+Take to you, as your predecessors have,
+Your honour with your form. [ANSWER] VERSE [END]
+[CLASSIFY] LEONTES:
+Prithee, no more; cease; thou know'st
+He dies to me again when talk'd of: sure,
+When I shall see this gentleman, thy speeches
+Will bring me to consider that which may
+Unfurnish me of reason. They are come.
+Your mother was most true to wedlock, prince;
+For she did print your royal father off,
+Conceiving you: were I but twenty-one,
+Your father's image is so hit in you,
+His very air, that I should call you brother,
+As I did him, and speak of something wildly
+By us perform'd before. Most dearly welcome!
+And your fair princess,--goddess!--O, alas!
+I lost a couple, that 'twixt heaven and earth
+Might thus have stood begetting wonder as
+You, gracious couple, do: and then I lost--
+All mine own folly--the society,
+Amity too, of your brave father, whom,
+Though bearing misery, I desire my life
+Once more to look on him. [ANSWER] VERSE [END]
+[CLASSIFY] AUFIDIUS:
+Wert thou the Hector
+That was the whip of your bragg'd progeny,
+Thou shouldst not scape me here.
+Officious, and not valiant, you have shamed me
+In your condemned seconds. [ANSWER] VERSE [END]
+[CLASSIFY] FRIAR LAURENCE:
+A gentler judgment vanish'd from his lips,
+Not body's death, but body's banishment. [ANSWER] VERSE [END]
+[CLASSIFY] KING RICHARD III:
+O Ratcliff, I have dream'd a fearful dream!
+What thinkest thou, will our friends prove all true? [ANSWER] VERSE [END]
+[CLASSIFY] BUCKINGHAM:
+Still live they and for ever may they last! [ANSWER] PROSE [END]
+[CLASSIFY] LEONTES:
+Why, what need we
+Commune with you of this, but rather follow
+Our forceful instigation? Our prerogative
+Calls not your counsels, but our natural goodness
+Imparts this; which if you, or stupefied
+Or seeming so in skill, cannot or will not
+Relish a truth like us, inform yourselves
+We need no more of your advice: the matter,
+The loss, the gain, the ordering on't, is all
+Properly ours. [ANSWER] VERSE [END]
+[CLASSIFY] CLAUDIO:
+The miserable have no other medicine
+But only hope:
+I've hope to live, and am prepared to die. [ANSWER] VERSE [END]
+[CLASSIFY] FRIAR LAURENCE:
+Wisely and slow; they stumble that run fast. [ANSWER] PROSE [END]
+[CLASSIFY] GREEN:
+Alas, poor duke! the task he undertakes
+Is numbering sands and drinking oceans dry:
+Where one on his side fights, thousands will fly.
+Farewell at once, for once, for all, and ever. [ANSWER] VERSE [END]
+[CLASSIFY] JULIET:
+Sweet, so would I:
+Yet I should kill thee with much cherishing.
+Good night, good night! parting is such
+sweet sorrow,
+That I shall say good night till it be morrow. [ANSWER] VERSE [END]
+[CLASSIFY] HENRY BOLINGBROKE:
+Go, some of you convey him to the Tower. [ANSWER] PROSE [END]
+[CLASSIFY] BIANCA:
+That, being mad herself, she's madly mated. [ANSWER] PROSE [END]
+[CLASSIFY] ELBOW:
+Come your way, sir. 'Bless you, good father friar. [ANSWER] PROSE [END]
+[CLASSIFY] HENRY BOLINGBROKE:
+What is the matter, uncle? speak;
+Recover breath; tell us how near is danger,
+That we may arm us to encounter it. [ANSWER] VERSE [END]
+[CLASSIFY] KING HENRY VI:
+Edward Plantagenet, arise a knight;
+And learn this lesson, draw thy sword in right. [ANSWER] VERSE [END]
+[CLASSIFY] Gentlewoman:
+Madam, the Lady Valeria is come to visit you. [ANSWER] PROSE [END]
+[CLASSIFY] CLIFFORD:
+Ay, crook-back, here I stand to answer thee,
+Or any he the proudest of thy sort. [ANSWER] VERSE [END]
+[CLASSIFY] Clown:
+What manner of fellow was he that robbed you? [ANSWER] PROSE [END]
+[CLASSIFY] VOLUMNIA:
+O, sir, sir, sir,
+I would have had you put your power well on,
+Before you had worn it out. [ANSWER] VERSE [END]
+[CLASSIFY] First Servingman:
+A strange one as ever I looked on: I cannot get him
+out of the house: prithee, call my master to him. [ANSWER] VERSE [END]
+[CLASSIFY] MISTRESS OVERDONE:
+Nay, but I know 'tis so: I saw him arrested, saw
+him carried away; and, which is more, within these
+three days his head to be chopped off. [ANSWER] VERSE [END]
+[CLASSIFY] WARWICK:
+'Twas not your valour, Clifford, drove me thence. [ANSWER] PROSE [END]
+[CLASSIFY] WARWICK:
+Oxford, how haps it, in this smooth discourse,
+You told not how Henry the Sixth hath lost
+All that which Henry Fifth had gotten?
+Methinks these peers of France should smile at that.
+But for the rest, you tell a pedigree
+Of threescore and two years; a silly time
+To make prescription for a kingdom's worth. [ANSWER] VERSE [END]
+[CLASSIFY] CAMILLO:
+She hangs about his neck:
+If she pertain to life let her speak too. [ANSWER] VERSE [END]
+[CLASSIFY] GREMIO:
+Went they not quickly, I should die with laughing. [ANSWER] PROSE [END]
+[CLASSIFY] HERMIONE:
+Not your gaoler, then,
+But your kind hostess. Come, I'll question you
+Of my lord's tricks and yours when you were boys:
+You were pretty lordings then? [ANSWER] VERSE [END]
+[CLASSIFY] JULIET:
+Now, by Saint Peter's Church and Peter too,
+He shall not make me there a joyful bride.
+I wonder at this haste; that I must wed
+Ere he, that should be husband, comes to woo.
+I pray you, tell my lord and father, madam,
+I will not marry yet; and, when I do, I swear,
+It shall be Romeo, whom you know I hate,
+Rather than Paris. These are news indeed! [ANSWER] VERSE [END]
+[CLASSIFY] DUCHESS OF YORK:
+Pleads he in earnest? look upon his face;
+His eyes do drop no tears, his prayers are in jest;
+His words come from his mouth, ours from our breast:
+He prays but faintly and would be denied;
+We pray with heart and soul and all beside:
+His weary joints would gladly rise, I know;
+Our knees shall kneel till to the ground they grow:
+His prayers are full of false hypocrisy;
+Ours of true zeal and deep integrity.
+Our prayers do out-pray his; then let them have
+That mercy which true prayer ought to have. [ANSWER] VERSE [END]
+[CLASSIFY] HENRY BOLINGBROKE:
+Withdraw yourselves, and leave us here alone.
+What is the matter with our cousin now? [ANSWER] VERSE [END]
+[CLASSIFY] PRINCE EDWARD:
+Let AEsop fable in a winter's night;
+His currish riddles sort not with this place. [ANSWER] VERSE [END]
+[CLASSIFY] QUEEN ELIZABETH:
+Shall I forget myself to be myself? [ANSWER] PROSE [END]
+[CLASSIFY] AUFIDIUS:
+Is it not yours?
+What ever have been thought on in this state,
+That could be brought to bodily act ere Rome
+Had circumvention? 'Tis not four days gone
+Since I heard thence; these are the words: I think
+I have the letter here; yes, here it is.
+'They have press'd a power, but it is not known
+Whether for east or west: the dearth is great;
+The people mutinous; and it is rumour'd,
+Cominius, Marcius your old enemy,
+Who is of Rome worse hated than of you,
+And Titus Lartius, a most valiant Roman,
+These three lead on this preparation
+Whither 'tis bent: most likely 'tis for you:
+Consider of it.' [ANSWER] VERSE [END]
+[CLASSIFY] GRUMIO:
+You are i' the right, sir: 'tis for my mistress. [ANSWER] PROSE [END]
+[CLASSIFY] PAULINA:
+And left them
+More rich for what they yielded. [ANSWER] VERSE [END]
+[CLASSIFY] MERCUTIO:
+Where the devil should this Romeo be?
+Came he not home to-night? [ANSWER] VERSE [END]
+[CLASSIFY] TRANIO:
+Sir, you seem a sober ancient gentleman by your
+habit, but your words show you a madman. Why, sir,
+what 'cerns it you if I wear pearl and gold? I
+thank my good father, I am able to maintain it. [ANSWER] VERSE [END]
+[CLASSIFY] KING RICHARD III:
+Ay, I thank God, my father, and yourself. [ANSWER] PROSE [END]
+[CLASSIFY] ROMEO:
+Not I; unless the breath of heartsick groans,
+Mist-like, infold me from the search of eyes. [ANSWER] VERSE [END]
+[CLASSIFY] QUEEN:
+So longest way shall have the longest moans. [ANSWER] PROSE [END]
+[CLASSIFY] SICINIUS:
+May they perceive's intent! He will require them,
+As if he did contemn what he requested
+Should be in them to give. [ANSWER] VERSE [END]
+[CLASSIFY] LADY CAPULET:
+We follow thee.
+Juliet, the county stays. [ANSWER] VERSE [END]
+[CLASSIFY] SEBASTIAN:
+Look he's winding up the watch of his wit;
+by and by it will strike. [ANSWER] VERSE [END]
+[CLASSIFY] CORIOLANUS:
+Ay; 'tis an honester service than to meddle with thy
+mistress. Thou pratest, and pratest; serve with thy
+trencher, hence! [ANSWER] VERSE [END]
+[CLASSIFY] YORK:
+Marry, my uncle Clarence' angry ghost:
+My grandam told me he was murdered there. [ANSWER] VERSE [END]
+[CLASSIFY] First Citizen:
+The former agents, if they did complain,
+What could the belly answer? [ANSWER] VERSE [END]
+[CLASSIFY] FRIAR LAURENCE:
+Hence from Verona art thou banished:
+Be patient, for the world is broad and wide. [ANSWER] VERSE [END]
+[CLASSIFY] KING RICHARD II:
+Then call them to our presence; face to face,
+And frowning brow to brow, ourselves will hear
+The accuser and the accused freely speak:
+High-stomach'd are they both, and full of ire,
+In rage deaf as the sea, hasty as fire. [ANSWER] VERSE [END]
+[CLASSIFY] GONZALO:
+I have great comfort from this fellow: methinks he
+hath no drowning mark upon him; his complexion is
+perfect gallows. Stand fast, good Fate, to his
+hanging: make the rope of his destiny our cable,
+for our own doth little advantage. If he be not
+born to be hanged, our case is miserable. [ANSWER] VERSE [END]
+[CLASSIFY] PROSPERO:
+Hag-seed, hence!
+Fetch us in fuel; and be quick, thou'rt best,
+To answer other business. Shrug'st thou, malice?
+If thou neglect'st or dost unwillingly
+What I command, I'll rack thee with old cramps,
+Fill all thy bones with aches, make thee roar
+That beasts shall tremble at thy din. [ANSWER] VERSE [END]
+[CLASSIFY] SEBASTIAN:
+Sir, you may thank yourself for this great loss,
+That would not bless our Europe with your daughter,
+But rather lose her to an African;
+Where she at least is banish'd from your eye,
+Who hath cause to wet the grief on't. [ANSWER] VERSE [END]
+[CLASSIFY] VINCENTIO:
+'Tis a good hearing when children are toward. [ANSWER] PROSE [END]
+[CLASSIFY] KING RICHARD II:
+Cousin, throw up your gage; do you begin. [ANSWER] PROSE [END]
+[CLASSIFY] TRANIO:
+And tells us, what occasion of import
+Hath all so long detain'd you from your wife,
+And sent you hither so unlike yourself? [ANSWER] VERSE [END]
+[CLASSIFY] CAMILLO:
+A cause more promising
+Than a wild dedication of yourselves
+To unpath'd waters, undream'd shores, most certain
+To miseries enough; no hope to help you,
+But as you shake off one to take another;
+Nothing so certain as your anchors, who
+Do their best office, if they can but stay you
+Where you'll be loath to be: besides you know
+Prosperity's the very bond of love,
+Whose fresh complexion and whose heart together
+Affliction alters. [ANSWER] VERSE [END]
+[CLASSIFY] Second Keeper:
+Say, what art thou that talk'st of kings and queens? [ANSWER] PROSE [END]
+[CLASSIFY] YORK:
+O Clifford, but bethink thee once again,
+And in thy thought o'er-run my former time;
+And, if though canst for blushing, view this face,
+And bite thy tongue, that slanders him with cowardice
+Whose frown hath made thee faint and fly ere this! [ANSWER] VERSE [END]
+[CLASSIFY] LORD STANLEY:
+Let me but meet you, ladies, one hour hence,
+And I'll salute your grace of York as mother,
+And reverend looker on, of two fair queens.
+Come, madam, you must straight to Westminster,
+There to be crowned Richard's royal queen. [ANSWER] VERSE [END]
+[CLASSIFY] KING EDWARD IV:
+Ha! durst the traitor breathe out so proud words?
+Well I will arm me, being thus forewarn'd:
+They shall have wars and pay for their presumption.
+But say, is Warwick friends with Margaret? [ANSWER] VERSE [END]
+[CLASSIFY] ISABELLA:
+So you must be the first that gives this sentence,
+And he, that suffer's. O, it is excellent
+To have a giant's strength; but it is tyrannous
+To use it like a giant. [ANSWER] VERSE [END]
+[CLASSIFY] Gentleman:
+One that gives out himself Prince Florizel,
+Son of Polixenes, with his princess, she
+The fairest I have yet beheld, desires access
+To your high presence. [ANSWER] VERSE [END]
+[CLASSIFY] MARIANA:
+Now I come to't my lord
+She that accuses him of fornication,
+In self-same manner doth accuse my husband,
+And charges him my lord, with such a time
+When I'll depose I had him in mine arms
+With all the effect of love. [ANSWER] VERSE [END]
+[CLASSIFY] VOLUMNIA:
+Anger's my meat; I sup upon myself,
+And so shall starve with feeding. Come, let's go:
+Leave this faint puling and lament as I do,
+In anger, Juno-like. Come, come, come. [ANSWER] VERSE [END]
+[CLASSIFY] MARCIUS:
+See here these movers that do prize their hours
+At a crack'd drachm! Cushions, leaden spoons,
+Irons of a doit, doublets that hangmen would
+Bury with those that wore them, these base slaves,
+Ere yet the fight be done, pack up: down with them!
+And hark, what noise the general makes! To him!
+There is the man of my soul's hate, Aufidius,
+Piercing our Romans: then, valiant Titus, take
+Convenient numbers to make good the city;
+Whilst I, with those that have the spirit, will haste
+To help Cominius. [ANSWER] VERSE [END]
+[CLASSIFY] BRAKENBURY:
+What was your dream? I long to hear you tell it. [ANSWER] PROSE [END]
+[CLASSIFY] DUKE OF YORK:
+Well, well, I see the issue of these arms:
+I cannot mend it, I must needs confess,
+Because my power is weak and all ill left:
+But if I could, by Him that gave me life,
+I would attach you all and make you stoop
+Unto the sovereign mercy of the king;
+But since I cannot, be it known to you
+I do remain as neuter. So, fare you well;
+Unless you please to enter in the castle
+And there repose you for this night. [ANSWER] VERSE [END]
+[CLASSIFY] CORIOLANUS:
+I will not seal your knowledge with showing them. I
+will make much of your voices, and so trouble you no further. [ANSWER] VERSE [END]
+[CLASSIFY] LUCIO:
+Thou concludest like the sanctimonious pirate, that
+went to sea with the Ten Commandments, but scraped
+one out of the table. [ANSWER] VERSE [END]
+[CLASSIFY] PERDITA:
+How often have I told you 'twould be thus!
+How often said, my dignity would last
+But till 'twere known! [ANSWER] VERSE [END]
+[CLASSIFY] TRANIO:
+Then at my lodging, an it like you:
+There doth my father lie; and there, this night,
+We'll pass the business privately and well.
+Send for your daughter by your servant here:
+My boy shall fetch the scrivener presently.
+The worst is this, that, at so slender warning,
+You are like to have a thin and slender pittance. [ANSWER] VERSE [END]
+[CLASSIFY] LEONTES:
+This is all:
+Do't and thou hast the one half of my heart;
+Do't not, thou split'st thine own. [ANSWER] VERSE [END]
+[CLASSIFY] FRIAR LAURENCE:
+Romeo shall thank thee, daughter, for us both. [ANSWER] PROSE [END]
+[CLASSIFY] DUKE OF AUMERLE:
+I brought high Hereford, if you call him so,
+But to the next highway, and there I left him. [ANSWER] VERSE [END]
+[CLASSIFY] Provost:
+What, ho! Abhorson! Where's Abhorson, there? [ANSWER] PROSE [END]
+[CLASSIFY] HORTENSIO:
+Quick proceeders, marry! Now, tell me, I pray,
+You that durst swear at your mistress Bianca
+Loved none in the world so well as Lucentio. [ANSWER] VERSE [END]
+[CLASSIFY] LUCIO:
+Do not believe it. Fewness and truth, 'tis thus:
+Your brother and his lover have embraced:
+As those that feed grow full, as blossoming time
+That from the seedness the bare fallow brings
+To teeming foison, even so her plenteous womb
+Expresseth his full tilth and husbandry. [ANSWER] VERSE [END]
+[CLASSIFY] LARTIUS:
+Now the fair goddess, Fortune,
+Fall deep in love with thee; and her great charms
+Misguide thy opposers' swords! Bold gentleman,
+Prosperity be thy page! [ANSWER] VERSE [END]
+[CLASSIFY] ISABELLA:
+Could great men thunder
+As Jove himself does, Jove would ne'er be quiet,
+For every pelting, petty officer
+Would use his heaven for thunder;
+Nothing but thunder! Merciful Heaven,
+Thou rather with thy sharp and sulphurous bolt
+Split'st the unwedgeable and gnarled oak
+Than the soft myrtle: but man, proud man,
+Drest in a little brief authority,
+Most ignorant of what he's most assured,
+His glassy essence, like an angry ape,
+Plays such fantastic tricks before high heaven
+As make the angels weep; who, with our spleens,
+Would all themselves laugh mortal. [ANSWER] VERSE [END]
+[CLASSIFY] NORTHUMBERLAND:
+The noble duke hath been too much abused. [ANSWER] PROSE [END]
+[CLASSIFY] ISABELLA:
+My business is a word or two with Claudio. [ANSWER] PROSE [END]
+[CLASSIFY] First Conspirator:
+Your native town you enter'd like a post,
+And had no welcomes home: but he returns,
+Splitting the air with noise. [ANSWER] VERSE [END]
+[CLASSIFY] Clown:
+Not swear it, now I am a gentleman? Let boors and
+franklins say it, I'll swear it. [ANSWER] VERSE [END]
+[CLASSIFY] HASTINGS:
+I'll have this crown of mine cut from my shoulders
+Ere I will see the crown so foul misplaced.
+But canst thou guess that he doth aim at it? [ANSWER] VERSE [END]
+[CLASSIFY] First Citizen:
+Care for us! True, indeed! They ne'er cared for us
+yet: suffer us to famish, and their store-houses
+crammed with grain; make edicts for usury, to
+support usurers; repeal daily any wholesome act
+established against the rich, and provide more
+piercing statutes daily, to chain up and restrain
+the poor. If the wars eat us not up, they will; and
+there's all the love they bear us. [ANSWER] VERSE [END]
+[CLASSIFY] QUEEN ELIZABETH:
+Which she shall purchase with still lasting war. [ANSWER] PROSE [END]
+[CLASSIFY] PROSPERO:
+Follow me.
+Speak not you for him; he's a traitor. Come;
+I'll manacle thy neck and feet together:
+Sea-water shalt thou drink; thy food shall be
+The fresh-brook muscles, wither'd roots and husks
+Wherein the acorn cradled. Follow. [ANSWER] VERSE [END]
+[CLASSIFY] DUKE VINCENTIO:
+Respect to your great place! and let the devil
+Be sometime honour'd for his burning throne!
+Where is the duke? 'tis he should hear me speak. [ANSWER] VERSE [END]
+[CLASSIFY] FROTH:
+I thank your worship. For mine own part, I never
+come into any room in a tap-house, but I am drawn
+in. [ANSWER] VERSE [END]
+[CLASSIFY] HASTINGS:
+I thank thee, good Sir John, with all my heart.
+I am in your debt for your last exercise;
+Come the next Sabbath, and I will content you. [ANSWER] VERSE [END]
+[CLASSIFY] TYRREL:
+The tyrannous and bloody deed is done.
+The most arch of piteous massacre
+That ever yet this land was guilty of.
+Dighton and Forrest, whom I did suborn
+To do this ruthless piece of butchery,
+Although they were flesh'd villains, bloody dogs,
+Melting with tenderness and kind compassion
+Wept like two children in their deaths' sad stories.
+'Lo, thus' quoth Dighton, 'lay those tender babes:'
+'Thus, thus,' quoth Forrest, 'girdling one another
+Within their innocent alabaster arms:
+Their lips were four red roses on a stalk,
+Which in their summer beauty kiss'd each other.
+A book of prayers on their pillow lay;
+Which once,' quoth Forrest, 'almost changed my mind;
+But O! the devil'--there the villain stopp'd
+Whilst Dighton thus told on: 'We smothered
+The most replenished sweet work of nature,
+That from the prime creation e'er she framed.'
+Thus both are gone with conscience and remorse;
+They could not speak; and so I left them both,
+To bring this tidings to the bloody king.
+And here he comes.
+All hail, my sovereign liege! [ANSWER] VERSE [END]
+[CLASSIFY] KATHARINA:
+Go, fool, and whom thou keep'st command. [ANSWER] PROSE [END]
+[CLASSIFY] CORIOLANUS:
+This last old man,
+Whom with a crack'd heart I have sent to Rome,
+Loved me above the measure of a father;
+Nay, godded me, indeed. Their latest refuge
+Was to send him; for whose old love I have,
+Though I show'd sourly to him, once more offer'd
+The first conditions, which they did refuse
+And cannot now accept; to grace him only
+That thought he could do more, a very little
+I have yielded to: fresh embassies and suits,
+Nor from the state nor private friends, hereafter
+Will I lend ear to. Ha! what shout is this?
+Shall I be tempted to infringe my vow
+In the same time 'tis made? I will not.
+My wife comes foremost; then the honour'd mould
+Wherein this trunk was framed, and in her hand
+The grandchild to her blood. But, out, affection!
+All bond and privilege of nature, break!
+Let it be virtuous to be obstinate.
+What is that curt'sy worth? or those doves' eyes,
+Which can make gods forsworn? I melt, and am not
+Of stronger earth than others. My mother bows;
+As if Olympus to a molehill should
+In supplication nod: and my young boy
+Hath an aspect of intercession, which
+Great nature cries 'Deny not.' let the Volsces
+Plough Rome and harrow Italy: I'll never
+Be such a gosling to obey instinct, but stand,
+As if a man were author of himself
+And knew no other kin. [ANSWER] VERSE [END]
+[CLASSIFY] AUTOLYCUS:
+Very true, sir; he, sir, he; that's the rogue that
+put me into this apparel. [ANSWER] VERSE [END]
+[CLASSIFY] GLOUCESTER:
+Not I:
+No, God forbid that I should wish them sever'd
+Whom God hath join'd together; ay, and 'twere pity
+To sunder them that yoke so well together. [ANSWER] VERSE [END]
+[CLASSIFY] POMPEY:
+Why, very well, then; I hope here be truths. [ANSWER] PROSE [END]
+[CLASSIFY] Pedant:
+I know him not, but I have heard of him;
+A merchant of incomparable wealth. [ANSWER] VERSE [END]
+[CLASSIFY] QUEEN MARGARET:
+What, dost thou scorn me for my gentle counsel?
+And soothe the devil that I warn thee from?
+O, but remember this another day,
+When he shall split thy very heart with sorrow,
+And say poor Margaret was a prophetess!
+Live each of you the subjects to his hate,
+And he to yours, and all of you to God's! [ANSWER] VERSE [END]
+[CLASSIFY] Nurse:
+Your love says, like an honest gentleman, and a
+courteous, and a kind, and a handsome, and, I
+warrant, a virtuous,--Where is your mother? [ANSWER] VERSE [END]
+[CLASSIFY] CLIFFORD:
+I slew thy father, call'st thou him a child? [ANSWER] PROSE [END]
+[CLASSIFY] LEONTES:
+Why, he that wears her like a medal, hanging
+About his neck, Bohemia: who, if I
+Had servants true about me, that bare eyes
+To see alike mine honour as their profits,
+Their own particular thrifts, they would do that
+Which should undo more doing: ay, and thou,
+His cupbearer,--whom I from meaner form
+Have benched and reared to worship, who mayst see
+Plainly as heaven sees earth and earth sees heaven,
+How I am galled,--mightst bespice a cup,
+To give mine enemy a lasting wink;
+Which draught to me were cordial. [ANSWER] VERSE [END]
+[CLASSIFY] First Citizen:
+Before we proceed any further, hear me speak. [ANSWER] PROSE [END]
+[CLASSIFY] KING EDWARD IV:
+I'll tell you how these lands are to be got. [ANSWER] PROSE [END]
+[CLASSIFY] ELBOW:
+Varlet, thou liest; thou liest, wicked varlet! the
+time has yet to come that she was ever respected
+with man, woman, or child. [ANSWER] VERSE [END]
+[CLASSIFY] Gaoler:
+Madam, if't please the queen to send the babe,
+I know not what I shall incur to pass it,
+Having no warrant. [ANSWER] VERSE [END]
+[CLASSIFY] PROSPERO:
+If thou more murmur'st, I will rend an oak
+And peg thee in his knotty entrails till
+Thou hast howl'd away twelve winters. [ANSWER] VERSE [END]
+[CLASSIFY] PROSPERO:
+Thy mother was a piece of virtue, and
+She said thou wast my daughter; and thy father
+Was Duke of Milan; and thou his only heir
+And princess no worse issued. [ANSWER] VERSE [END]
+[CLASSIFY] HENRY PERCY:
+Aumerle, thou liest; his honour is as true
+In this appeal as thou art all unjust;
+And that thou art so, there I throw my gage,
+To prove it on thee to the extremest point
+Of mortal breathing: seize it, if thou darest. [ANSWER] VERSE [END]
+[CLASSIFY] GRUMIO:
+Tell thou the tale: but hadst thou not crossed me,
+thou shouldst have heard how her horse fell and she
+under her horse; thou shouldst have heard in how
+miry a place, how she was bemoiled, how he left her
+with the horse upon her, how he beat me because
+her horse stumbled, how she waded through the dirt
+to pluck him off me, how he swore, how she prayed,
+that never prayed before, how I cried, how the
+horses ran away, how her bridle was burst, how I
+lost my crupper, with many things of worthy memory,
+which now shall die in oblivion and thou return
+unexperienced to thy grave. [ANSWER] VERSE [END]
+[CLASSIFY] CORIOLANUS:
+You should account me the more virtuous that I have
+not been common in my love. I will, sir, flatter my
+sworn brother, the people, to earn a dearer
+estimation of them; 'tis a condition they account
+gentle: and since the wisdom of their choice is
+rather to have my hat than my heart, I will practise
+the insinuating nod and be off to them most
+counterfeitly; that is, sir, I will counterfeit the
+bewitchment of some popular man and give it
+bountiful to the desirers. Therefore, beseech you,
+I may be consul. [ANSWER] VERSE [END]
+[CLASSIFY] Pedant:
+Soft son!
+Sir, by your leave: having come to Padua
+To gather in some debts, my son Lucentio
+Made me acquainted with a weighty cause
+Of love between your daughter and himself:
+And, for the good report I hear of you
+And for the love he beareth to your daughter
+And she to him, to stay him not too long,
+I am content, in a good father's care,
+To have him match'd; and if you please to like
+No worse than I, upon some agreement
+Me shall you find ready and willing
+With one consent to have her so bestow'd;
+For curious I cannot be with you,
+Signior Baptista, of whom I hear so well. [ANSWER] VERSE [END]
+[CLASSIFY] EMILIA:
+A daughter, and a goodly babe,
+Lusty and like to live: the queen receives
+Much comfort in't; says 'My poor prisoner,
+I am innocent as you.' [ANSWER] VERSE [END]
+[CLASSIFY] QUEEN ELIZABETH:
+And must she die for this? O, let her live,
+And I'll corrupt her manners, stain her beauty;
+Slander myself as false to Edward's bed;
+Throw over her the veil of infamy:
+So she may live unscarr'd of bleeding slaughter,
+I will confess she was not Edward's daughter. [ANSWER] VERSE [END]
+[CLASSIFY] Lord:
+Heaven cease this idle humour in your honour!
+O, that a mighty man of such descent,
+Of such possessions and so high esteem,
+Should be infused with so foul a spirit! [ANSWER] VERSE [END]
+[CLASSIFY] NORTHUMBERLAND:
+How far is it to Berkeley? and what stir
+Keeps good old York there with his men of war? [ANSWER] VERSE [END]
+[CLASSIFY] FLORIZEL:
+We are not, sir, nor are we like to be;
+The stars, I see, will kiss the valleys first:
+The odds for high and low's alike. [ANSWER] VERSE [END]
+[CLASSIFY] First Murderer:
+Ay, millstones; as be lesson'd us to weep. [ANSWER] PROSE [END]
+[CLASSIFY] POMPEY:
+Master Barnardine! you must rise and be hanged.
+Master Barnardine! [ANSWER] VERSE [END]
+[CLASSIFY] KING RICHARD III:
+I, even I: what think you of it, madam? [ANSWER] PROSE [END]
+[CLASSIFY] CORIOLANUS:
+Think upon me! hang 'em!
+I would they would forget me, like the virtues
+Which our divines lose by 'em. [ANSWER] VERSE [END]
+[CLASSIFY] KING HENRY VI:
+The bird that hath been limed in a bush,
+With trembling wings misdoubteth every bush;
+And I, the hapless male to one sweet bird,
+Have now the fatal object in my eye
+Where my poor young was limed, was caught and kill'd. [ANSWER] VERSE [END]
+[CLASSIFY] KING HENRY VI:
+Here at the palace I will rest awhile.
+Cousin of Exeter, what thinks your lordship?
+Methinks the power that Edward hath in field
+Should not be able to encounter mine. [ANSWER] VERSE [END]
+[CLASSIFY] HENRY BOLINGBROKE:
+My gracious lord, I come but for mine own. [ANSWER] PROSE [END]
+[CLASSIFY] PROSPERO:
+I pray thee, mark me.
+I, thus neglecting worldly ends, all dedicated
+To closeness and the bettering of my mind
+With that which, but by being so retired,
+O'er-prized all popular rate, in my false brother
+Awaked an evil nature; and my trust,
+Like a good parent, did beget of him
+A falsehood in its contrary as great
+As my trust was; which had indeed no limit,
+A confidence sans bound. He being thus lorded,
+Not only with what my revenue yielded,
+But what my power might else exact, like one
+Who having into truth, by telling of it,
+Made such a sinner of his memory,
+To credit his own lie, he did believe
+He was indeed the duke; out o' the substitution
+And executing the outward face of royalty,
+With all prerogative: hence his ambition growing--
+Dost thou hear? [ANSWER] VERSE [END]
+[CLASSIFY] HENRY BOLINGBROKE:
+As dissolute as desperate; yet through both
+I see some sparks of better hope, which elder years
+May happily bring forth. But who comes here? [ANSWER] VERSE [END]
+[CLASSIFY] MIRANDA:
+O dear father,
+Make not too rash a trial of him, for
+He's gentle and not fearful. [ANSWER] VERSE [END]
+[CLASSIFY] ISABELLA:
+Yes; I do think that you might pardon him,
+And neither heaven nor man grieve at the mercy. [ANSWER] VERSE [END]
+[CLASSIFY] COMINIUS:
+Hear me, my masters, and my common friends,-- [ANSWER] PROSE [END]
+[CLASSIFY] GRUMIO:
+Nay, 'tis no matter, sir, what he 'leges in Latin.
+if this be not a lawful case for me to leave his
+service, look you, sir, he bid me knock him and rap
+him soundly, sir: well, was it fit for a servant to
+use his master so, being perhaps, for aught I see,
+two and thirty, a pip out? Whom would to God I had
+well knock'd at first, Then had not Grumio come by the worst. [ANSWER] VERSE [END]
+[CLASSIFY] Third Conspirator:
+Therefore, at your vantage,
+Ere he express himself, or move the people
+With what he would say, let him feel your sword,
+Which we will second. When he lies along,
+After your way his tale pronounced shall bury
+His reasons with his body. [ANSWER] VERSE [END]
+[CLASSIFY] Post:
+My sovereign liege, no letters; and few words,
+But such as I, without your special pardon,
+Dare not relate. [ANSWER] VERSE [END]
+[CLASSIFY] PETRUCHIO:
+Come, go along, and see the truth hereof;
+For our first merriment hath made thee jealous. [ANSWER] VERSE [END]
+[CLASSIFY] WARWICK:
+Some six miles off the duke is with the soldiers;
+And for your brother, he was lately sent
+From your kind aunt, Duchess of Burgundy,
+With aid of soldiers to this needful war. [ANSWER] VERSE [END]
+[CLASSIFY] ESCALUS:
+Thank you, good Pompey; and, in requital of your
+prophecy, hark you: I advise you, let me not find
+you before me again upon any complaint whatsoever;
+no, not for dwelling where you do: if I do, Pompey,
+I shall beat you to your tent, and prove a shrewd
+Caesar to you; in plain dealing, Pompey, I shall
+have you whipt: so, for this time, Pompey, fare you well. [ANSWER] VERSE [END]
+[CLASSIFY] BUCKINGHAM:
+Well, then, no more but this: go, gentle Catesby,
+And, as it were far off sound thou Lord Hastings,
+How doth he stand affected to our purpose;
+And summon him to-morrow to the Tower,
+To sit about the coronation.
+If thou dost find him tractable to us,
+Encourage him, and show him all our reasons:
+If he be leaden, icy-cold, unwilling,
+Be thou so too; and so break off your talk,
+And give us notice of his inclination:
+For we to-morrow hold divided councils,
+Wherein thyself shalt highly be employ'd. [ANSWER] VERSE [END]
+[CLASSIFY] Messenger:
+Royal commanders, be in readiness:
+For with a band of thirty thousand men
+Comes Warwick, backing of the Duke of York;
+And in the towns, as they do march along,
+Proclaims him king, and many fly to him:
+Darraign your battle, for they are at hand. [ANSWER] VERSE [END]
+[CLASSIFY] RICHMOND:
+All for our vantage. Then, in God's name, march:
+True hope is swift, and flies with swallow's wings:
+Kings it makes gods, and meaner creatures kings. [ANSWER] VERSE [END]
+[CLASSIFY] BAPTISTA:
+Faith, gentlemen, now I play a merchant's part,
+And venture madly on a desperate mart. [ANSWER] VERSE [END]
+[CLASSIFY] KING RICHARD III:
+Harp not on that string, madam; that is past. [ANSWER] PROSE [END]
+[CLASSIFY] SICINIUS:
+Besides, if things go well,
+Opinion that so sticks on Marcius shall
+Of his demerits rob Cominius. [ANSWER] VERSE [END]
+[CLASSIFY] HASTINGS:
+Why, master mayor, why stand you in a doubt?
+Open the gates; we are King Henry's friends. [ANSWER] VERSE [END]
+[CLASSIFY] PERDITA:
+I'll not put
+The dibble in earth to set one slip of them;
+No more than were I painted I would wish
+This youth should say 'twere well and only therefore
+Desire to breed by me. Here's flowers for you;
+Hot lavender, mints, savoury, marjoram;
+The marigold, that goes to bed wi' the sun
+And with him rises weeping: these are flowers
+Of middle summer, and I think they are given
+To men of middle age. You're very welcome. [ANSWER] VERSE [END]
+[CLASSIFY] RIVERS:
+Tyrants themselves wept when it was reported. [ANSWER] PROSE [END]
+[CLASSIFY] LADY GREY:
+So shall you bind me to your highness' service. [ANSWER] PROSE [END]
+[CLASSIFY] KING EDWARD IV:
+Away with her, and waft her hence to France.
+And now what rests but that we spend the time
+With stately triumphs, mirthful comic shows,
+Such as befits the pleasure of the court?
+Sound drums and trumpets! farewell sour annoy!
+For here, I hope, begins our lasting joy. [ANSWER] VERSE [END]
+[CLASSIFY] NURSE:
+Well, sir; my mistress is the sweetest lady--Lord,
+Lord! when 'twas a little prating thing:--O, there
+is a nobleman in town, one Paris, that would fain
+lay knife aboard; but she, good soul, had as lief
+see a toad, a very toad, as see him. I anger her
+sometimes and tell her that Paris is the properer
+man; but, I'll warrant you, when I say so, she looks
+as pale as any clout in the versal world. Doth not
+rosemary and Romeo begin both with a letter? [ANSWER] VERSE [END]
+[CLASSIFY] FRIAR LAURENCE:
+Who bare my letter, then, to Romeo? [ANSWER] PROSE [END]
+[CLASSIFY] GLOUCESTER:
+And shall have your will, because our king:
+Yet hasty marriage seldom proveth well. [ANSWER] VERSE [END]
+[CLASSIFY] LUCIO:
+Why? For filling a bottle with a tundish. I would
+the duke we talk of were returned again: the
+ungenitured agent will unpeople the province with
+continency; sparrows must not build in his
+house-eaves, because they are lecherous. The duke
+yet would have dark deeds darkly answered; he would
+never bring them to light: would he were returned!
+Marry, this Claudio is condemned for untrussing.
+Farewell, good friar: I prithee, pray for me. The
+duke, I say to thee again, would eat mutton on
+Fridays. He's not past it yet, and I say to thee,
+he would mouth with a beggar, though she smelt brown
+bread and garlic: say that I said so. Farewell. [ANSWER] VERSE [END]
+[CLASSIFY] NORTHUMBERLAND:
+Reproach and dissolution hangeth over him. [ANSWER] PROSE [END]
+[CLASSIFY] DUKE OF AUMERLE:
+Faith, none for me; except the north-east wind,
+Which then blew bitterly against our faces,
+Awaked the sleeping rheum, and so by chance
+Did grace our hollow parting with a tear. [ANSWER] VERSE [END]
+[CLASSIFY] First Servingman:
+Wine, wine, wine! What service
+is here! I think our fellows are asleep. [ANSWER] VERSE [END]
+[CLASSIFY] ISABELLA:
+Not with fond shekels of the tested gold,
+Or stones whose rates are either rich or poor
+As fancy values them; but with true prayers
+That shall be up at heaven and enter there
+Ere sun-rise, prayers from preserved souls,
+From fasting maids whose minds are dedicate
+To nothing temporal. [ANSWER] VERSE [END]
+[CLASSIFY] POLIXENES:
+Sir, that's to-morrow.
+I am question'd by my fears, of what may chance
+Or breed upon our absence; that may blow
+No sneaping winds at home, to make us say
+'This is put forth too truly:' besides, I have stay'd
+To tire your royalty. [ANSWER] VERSE [END]
+[CLASSIFY] JOHN OF GAUNT:
+The sullen passage of thy weary steps
+Esteem as foil wherein thou art to set
+The precious jewel of thy home return. [ANSWER] VERSE [END]
+[CLASSIFY] First Murderer:
+How now! what mean'st thou, that thou help'st me not?
+By heavens, the duke shall know how slack thou art! [ANSWER] VERSE [END]
+[CLASSIFY] PETRUCHIO:
+O, ho! entreat her!
+Nay, then she must needs come. [ANSWER] VERSE [END]
+[CLASSIFY] CAPULET:
+O heavens! O wife, look how our daughter bleeds!
+This dagger hath mista'en--for, lo, his house
+Is empty on the back of Montague,--
+And it mis-sheathed in my daughter's bosom! [ANSWER] VERSE [END]
+[CLASSIFY] AUTOLYCUS:
+Why, this is a passing merry one and goes to
+the tune of 'Two maids wooing a man:' there's
+scarce a maid westward but she sings it; 'tis in
+request, I can tell you. [ANSWER] VERSE [END]
+[CLASSIFY] SICINIUS:
+Nay, pray, be patient: if you refuse your aid
+In this so never-needed help, yet do not
+Upbraid's with our distress. But, sure, if you
+Would be your country's pleader, your good tongue,
+More than the instant army we can make,
+Might stop our countryman. [ANSWER] VERSE [END]
+[CLASSIFY] Nurse:
+Will you speak well of him that kill'd your cousin? [ANSWER] PROSE [END]
+[CLASSIFY] CORIOLANUS:
+What, what, what!
+I shall be loved when I am lack'd. Nay, mother.
+Resume that spirit, when you were wont to say,
+If you had been the wife of Hercules,
+Six of his labours you'ld have done, and saved
+Your husband so much sweat. Cominius,
+Droop not; adieu. Farewell, my wife, my mother:
+I'll do well yet. Thou old and true Menenius,
+Thy tears are salter than a younger man's,
+And venomous to thine eyes. My sometime general,
+I have seen thee stem, and thou hast oft beheld
+Heart-hardening spectacles; tell these sad women
+'Tis fond to wail inevitable strokes,
+As 'tis to laugh at 'em. My mother, you wot well
+My hazards still have been your solace: and
+Believe't not lightly--though I go alone,
+Like to a lonely dragon, that his fen
+Makes fear'd and talk'd of more than seen--your son
+Will or exceed the common or be caught
+With cautelous baits and practise. [ANSWER] VERSE [END]
+[CLASSIFY] Boatswain:
+Lay her a-hold, a-hold! set her two courses off to
+sea again; lay her off. [ANSWER] VERSE [END]
+[CLASSIFY] FRIAR LAURENCE:
+Thou fond mad man, hear me but speak a word. [ANSWER] PROSE [END]
+[CLASSIFY] LEONTES:
+I am a feather for each wind that blows:
+Shall I live on to see this bastard kneel
+And call me father? better burn it now
+Than curse it then. But be it; let it live.
+It shall not neither. You, sir, come you hither;
+You that have been so tenderly officious
+With Lady Margery, your midwife there,
+To save this bastard's life,--for 'tis a bastard,
+So sure as this beard's grey,
+--what will you adventure
+To save this brat's life? [ANSWER] VERSE [END]
+[CLASSIFY] ROMEO:
+What, shall this speech be spoke for our excuse?
+Or shall we on without a apology? [ANSWER] VERSE [END]
+[CLASSIFY] CORIOLANUS:
+No more of this; it does offend my heart:
+Pray now, no more. [ANSWER] VERSE [END]
+[CLASSIFY] QUEEN ELIZABETH:
+Oh, who shall hinder me to wail and weep,
+To chide my fortune, and torment myself?
+I'll join with black despair against my soul,
+And to myself become an enemy. [ANSWER] VERSE [END]
+[CLASSIFY] GREMIO:
+I doubt it not, sir; but you will curse your
+wooing. Neighbour, this is a gift very grateful, I am
+sure of it. To express the like kindness, myself,
+that have been more kindly beholding to you than
+any, freely give unto you this young scholar,
+that hath been long studying at Rheims; as cunning
+in Greek, Latin, and other languages, as the other
+in music and mathematics: his name is Cambio; pray,
+accept his service. [ANSWER] VERSE [END]
+[CLASSIFY] DUKE VINCENTIO:
+By the vow of mine order I warrant you, if my
+instructions may be your guide. Let this Barnardine
+be this morning executed, and his head born to Angelo. [ANSWER] VERSE [END]
+[CLASSIFY] ANTIGONUS:
+I swear to do this, though a present death
+Had been more merciful. Come on, poor babe:
+Some powerful spirit instruct the kites and ravens
+To be thy nurses! Wolves and bears, they say
+Casting their savageness aside have done
+Like offices of pity. Sir, be prosperous
+In more than this deed does require! And blessing
+Against this cruelty fight on thy side,
+Poor thing, condemn'd to loss! [ANSWER] VERSE [END]
+[CLASSIFY] LUCIO:
+I was once before him for getting a wench with child. [ANSWER] PROSE [END]
+[CLASSIFY] CALIBAN:
+As wicked dew as e'er my mother brush'd
+With raven's feather from unwholesome fen
+Drop on you both! a south-west blow on ye
+And blister you all o'er! [ANSWER] VERSE [END]
+[CLASSIFY] DUKE OF AUMERLE:
+Comfort, my liege; remember who you are. [ANSWER] PROSE [END]
+[CLASSIFY] CALIBAN:
+You taught me language; and my profit on't
+Is, I know how to curse. The red plague rid you
+For learning me your language! [ANSWER] VERSE [END]
+[CLASSIFY] GLOUCESTER:
+My lord, will't please you pass along?
+Myself and my good cousin Buckingham
+Will to your mother, to entreat of her
+To meet you at the Tower and welcome you. [ANSWER] VERSE [END]
+[CLASSIFY] PETRUCHIO:
+Why, there's a wench! Come on, and kiss me, Kate. [ANSWER] PROSE [END]
+[CLASSIFY] DERBY:
+John Duke of Norfolk, Walter Lord Ferrers,
+Sir Robert Brakenbury, and Sir William Brandon. [ANSWER] VERSE [END]
+[CLASSIFY] BRUTUS:
+Then our office may,
+During his power, go sleep. [ANSWER] VERSE [END]
+[CLASSIFY] DORSET:
+Be of good cheer: mother, how fares your grace? [ANSWER] PROSE [END]
+[CLASSIFY] First Keeper:
+Forbear awhile; we'll hear a little more. [ANSWER] PROSE [END]
+[CLASSIFY] POLIXENES:
+Then make your garden rich in gillyvors,
+And do not call them bastards. [ANSWER] VERSE [END]
+[CLASSIFY] GRUMIO:
+I fear it is too choleric a meat.
+How say you to a fat tripe finely broil'd? [ANSWER] VERSE [END]
+[CLASSIFY] KING EDWARD IV:
+An easy task; 'tis but to love a king. [ANSWER] PROSE [END]
+[CLASSIFY] Second Watchman:
+To-morrow then belike shall be the day,
+If Warwick be so near as men report. [ANSWER] VERSE [END]
+[CLASSIFY] VOLUMNIA:
+Honourable Menenius, my boy Marcius approaches; for
+the love of Juno, let's go. [ANSWER] VERSE [END]
+[CLASSIFY] First Murderer:
+Do so, it is a point of wisdom: fare you well. [ANSWER] PROSE [END]
+[CLASSIFY] CORIOLANUS:
+Ay, by and by;
+But we will drink together; and you shall bear
+A better witness back than words, which we,
+On like conditions, will have counter-seal'd.
+Come, enter with us. Ladies, you deserve
+To have a temple built you: all the swords
+In Italy, and her confederate arms,
+Could not have made this peace. [ANSWER] VERSE [END]
+[CLASSIFY] ANGELO:
+My lord, her wits, I fear me, are not firm:
+She hath been a suitor to me for her brother
+Cut off by course of justice,-- [ANSWER] VERSE [END]
+[CLASSIFY] Nurse:
+O woe! O woful, woful, woful day!
+Most lamentable day, most woful day,
+That ever, ever, I did yet behold!
+O day! O day! O day! O hateful day!
+Never was seen so black a day as this:
+O woful day, O woful day! [ANSWER] VERSE [END]
+[CLASSIFY] JULIET:
+Ay me! what news? why dost thou wring thy hands? [ANSWER] PROSE [END]
+[CLASSIFY] HENRY BOLINGBROKE:
+In God's name, I'll ascend the regal throne. [ANSWER] PROSE [END]
+[CLASSIFY] Pedant:
+He's within, sir, but not to be spoken withal. [ANSWER] PROSE [END]
+[CLASSIFY] KING RICHARD III:
+But in your daughter's womb I bury them:
+Where in that nest of spicery they shall breed
+Selves of themselves, to your recomforture. [ANSWER] VERSE [END]
+[CLASSIFY] KING EDWARD IV:
+Widow, we will consider of your suit;
+And come some other time to know our mind. [ANSWER] VERSE [END]
+[CLASSIFY] GLOUCESTER:
+Never came poison from so sweet a place. [ANSWER] PROSE [END]
+[CLASSIFY] CORIOLANUS:
+Like a dull actor now,
+I have forgot my part, and I am out,
+Even to a full disgrace. Best of my flesh,
+Forgive my tyranny; but do not say
+For that 'Forgive our Romans.' O, a kiss
+Long as my exile, sweet as my revenge!
+Now, by the jealous queen of heaven, that kiss
+I carried from thee, dear; and my true lip
+Hath virgin'd it e'er since. You gods! I prate,
+And the most noble mother of the world
+Leave unsaluted: sink, my knee, i' the earth;
+Of thy deep duty more impression show
+Than that of common sons. [ANSWER] VERSE [END]
+[CLASSIFY] QUEEN MARGARET:
+This cheers my heart, to see your forwardness. [ANSWER] PROSE [END]
+[CLASSIFY] BENVOLIO:
+At this same ancient feast of Capulet's
+Sups the fair Rosaline whom thou so lovest,
+With all the admired beauties of Verona:
+Go thither; and, with unattainted eye,
+Compare her face with some that I shall show,
+And I will make thee think thy swan a crow. [ANSWER] VERSE [END]
+[CLASSIFY] PETRUCHIO:
+When you are gentle, you shall have one too,
+And not till then. [ANSWER] VERSE [END]
+[CLASSIFY] DUKE OF YORK:
+The time hath been,
+Would you have been so brief with him, he would
+Have been so brief with you, to shorten you,
+For taking so the head, your whole head's length. [ANSWER] VERSE [END]
+[CLASSIFY] JULIET:
+Saints do not move, though grant for prayers' sake. [ANSWER] PROSE [END]
+[CLASSIFY] EDWARD:
+Now, perjured Henry! wilt thou kneel for grace,
+And set thy diadem upon my head;
+Or bide the mortal fortune of the field? [ANSWER] VERSE [END]
+[CLASSIFY] DUKE OF YORK:
+What seal is that, that hangs without thy bosom?
+Yea, look'st thou pale? let me see the writing. [ANSWER] VERSE [END]
+[CLASSIFY] WARWICK:
+Thereon I pawn my credit and mine honour. [ANSWER] PROSE [END]
+[CLASSIFY] ISABELLA:
+The better, given me by so holy a man.
+Hath yet the deputy sent my brother's pardon? [ANSWER] VERSE [END]
+[CLASSIFY] First Citizen:
+No, no; by God's good grace his son shall reign. [ANSWER] PROSE [END]
+[CLASSIFY] Second Citizen:
+Marry, we were sent for to the justices. [ANSWER] PROSE [END]
+[CLASSIFY] KING HENRY VI:
+Let me embrace thee, sour adversity,
+For wise men say it is the wisest course. [ANSWER] VERSE [END]
+[CLASSIFY] WARWICK:
+Then let the earth be drunken with our blood:
+I'll kill my horse, because I will not fly.
+Why stand we like soft-hearted women here,
+Wailing our losses, whiles the foe doth rage;
+And look upon, as if the tragedy
+Were play'd in jest by counterfeiting actors?
+Here on my knee I vow to God above,
+I'll never pause again, never stand still,
+Till either death hath closed these eyes of mine
+Or fortune given me measure of revenge. [ANSWER] VERSE [END]
+[CLASSIFY] MENENIUS:
+This is strange now: do you two know how you are
+censured here in the city, I mean of us o' the
+right-hand file? do you? [ANSWER] VERSE [END]
+[CLASSIFY] BENVOLIO:
+I do but keep the peace: put up thy sword,
+Or manage it to part these men with me. [ANSWER] VERSE [END]
+[CLASSIFY] Servant:
+Here is the sister of the man condemn'd
+Desires access to you. [ANSWER] VERSE [END]
+[CLASSIFY] Nurse:
+Now, by my maidenhead, at twelve year old,
+I bade her come. What, lamb! what, ladybird!
+God forbid! Where's this girl? What, Juliet! [ANSWER] VERSE [END]
+[CLASSIFY] LEONTES:
+Whilst I remember
+Her and her virtues, I cannot forget
+My blemishes in them, and so still think of
+The wrong I did myself; which was so much,
+That heirless it hath made my kingdom and
+Destroy'd the sweet'st companion that e'er man
+Bred his hopes out of. [ANSWER] VERSE [END]
+[CLASSIFY] Nurse:
+Tybalt is gone, and Romeo banished;
+Romeo that kill'd him, he is banished. [ANSWER] VERSE [END]
+[CLASSIFY] BRUTUS:
+With a proud heart he wore his humble weeds.
+will you dismiss the people? [ANSWER] VERSE [END]
+[CLASSIFY] BAPTISTA:
+I have a daughter, sir, called Katharina. [ANSWER] PROSE [END]
+[CLASSIFY] MARCIUS:
+He that will give good words to thee will flatter
+Beneath abhorring. What would you have, you curs,
+That like nor peace nor war? the one affrights you,
+The other makes you proud. He that trusts to you,
+Where he should find you lions, finds you hares;
+Where foxes, geese: you are no surer, no,
+Than is the coal of fire upon the ice,
+Or hailstone in the sun. Your virtue is
+To make him worthy whose offence subdues him
+And curse that justice did it.
+Who deserves greatness
+Deserves your hate; and your affections are
+A sick man's appetite, who desires most that
+Which would increase his evil. He that depends
+Upon your favours swims with fins of lead
+And hews down oaks with rushes. Hang ye! Trust Ye?
+With every minute you do change a mind,
+And call him noble that was now your hate,
+Him vile that was your garland. What's the matter,
+That in these several places of the city
+You cry against the noble senate, who,
+Under the gods, keep you in awe, which else
+Would feed on one another? What's their seeking? [ANSWER] VERSE [END]
+[CLASSIFY] MENENIUS:
+The senators of Rome are this good belly,
+And you the mutinous members; for examine
+Their counsels and their cares, digest things rightly
+Touching the weal o' the common, you shall find
+No public benefit which you receive
+But it proceeds or comes from them to you
+And no way from yourselves. What do you think,
+You, the great toe of this assembly? [ANSWER] VERSE [END]
+[CLASSIFY] QUEEN:
+My legs can keep no measure in delight,
+When my poor heart no measure keeps in grief:
+Therefore, no dancing, girl; some other sport. [ANSWER] VERSE [END]
+[CLASSIFY] Third Citizen:
+You must think, if we give you any thing, we hope to
+gain by you. [ANSWER] VERSE [END]
+[CLASSIFY] CAMILLO:
+Sir, my lord,
+I could do this, and that with no rash potion,
+But with a lingering dram that should not work
+Maliciously like poison: but I cannot
+Believe this crack to be in my dread mistress,
+So sovereignly being honourable.
+I have loved thee,-- [ANSWER] VERSE [END]
+[CLASSIFY] COMINIUS:
+'Tis not a mile; briefly we heard their drums:
+How couldst thou in a mile confound an hour,
+And bring thy news so late? [ANSWER] VERSE [END]
+[CLASSIFY] CLARENCE:
+I mind to tell him plainly what I think. [ANSWER] PROSE [END]
+[CLASSIFY] DUKE VINCENTIO:
+O place and greatness! millions of false eyes
+Are stuck upon thee: volumes of report
+Run with these false and most contrarious quests
+Upon thy doings: thousand escapes of wit
+Make thee the father of their idle dreams
+And rack thee in their fancies.
+Welcome, how agreed? [ANSWER] VERSE [END]
+[CLASSIFY] FLORIZEL:
+Worthy Camillo,
+What colour for my visitation shall I
+Hold up before him? [ANSWER] VERSE [END]
+[CLASSIFY] Nurse:
+By my troth, it is well said; 'for himself to mar,'
+quoth a'? Gentlemen, can any of you tell me where I
+may find the young Romeo? [ANSWER] VERSE [END]
+[CLASSIFY] KING EDWARD IV:
+What, Warwick, wilt thou leave the town and fight?
+Or shall we beat the stones about thine ears? [ANSWER] VERSE [END]
+[CLASSIFY] RICHARD:
+I know it well, Lord Warwick; blame me not:
+'Tis love I bear thy glories makes me speak.
+But in this troublous time what's to be done?
+Shall we go throw away our coats of steel,
+And wrap our bodies in black mourning gowns,
+Numbering our Ave-Maries with our beads?
+Or shall we on the helmets of our foes
+Tell our devotion with revengeful arms?
+If for the last, say ay, and to it, lords. [ANSWER] VERSE [END]
+[CLASSIFY] Nurse:
+Ah, well-a-day! he's dead, he's dead, he's dead!
+We are undone, lady, we are undone!
+Alack the day! he's gone, he's kill'd, he's dead! [ANSWER] VERSE [END]
+[CLASSIFY] ROMEO:
+Tush, thou art deceived:
+Leave me, and do the thing I bid thee do.
+Hast thou no letters to me from the friar? [ANSWER] VERSE [END]
+[CLASSIFY] Provost:
+I do it not in evil disposition,
+But from Lord Angelo by special charge. [ANSWER] VERSE [END]
+[CLASSIFY] EARL OF SALISBURY:
+Stay yet another day, thou trusty Welshman:
+The king reposeth all his confidence in thee. [ANSWER] VERSE [END]
+[CLASSIFY] Second Citizen:
+You are never without your tricks: you may, you may. [ANSWER] PROSE [END]
+[CLASSIFY] PETRUCHIO:
+Where be these knaves? What, no man at door
+To hold my stirrup nor to take my horse!
+Where is Nathaniel, Gregory, Philip? [ANSWER] VERSE [END]
+[CLASSIFY] GLOUCESTER:
+Yea, and much more: but I was born so high,
+Our aery buildeth in the cedar's top,
+And dallies with the wind and scorns the sun. [ANSWER] VERSE [END]
+[CLASSIFY] POMPEY:
+O, the better, sir; for he that drinks all night,
+and is hanged betimes in the morning, may sleep the
+sounder all the next day. [ANSWER] VERSE [END]
+[CLASSIFY] Clown:
+Out upon him! prig, for my life, prig: he haunts
+wakes, fairs and bear-baitings. [ANSWER] VERSE [END]
+[CLASSIFY] COMINIUS:
+Who's yonder,
+That does appear as he were flay'd? O gods
+He has the stamp of Marcius; and I have
+Before-time seen him thus. [ANSWER] VERSE [END]
+[CLASSIFY] Second Murderer:
+I'll not meddle with it: it is a dangerous thing: it
+makes a man a coward: a man cannot steal, but it
+accuseth him; he cannot swear, but it cheques him;
+he cannot lie with his neighbour's wife, but it
+detects him: 'tis a blushing shamefast spirit that
+mutinies in a man's bosom; it fills one full of
+obstacles: it made me once restore a purse of gold
+that I found; it beggars any man that keeps it: it
+is turned out of all towns and cities for a
+dangerous thing; and every man that means to live
+well endeavours to trust to himself and to live
+without it. [ANSWER] VERSE [END]
+[CLASSIFY] BRUTUS:
+Fame, at the which he aims,
+In whom already he's well graced, can not
+Better be held nor more attain'd than by
+A place below the first: for what miscarries
+Shall be the general's fault, though he perform
+To the utmost of a man, and giddy censure
+Will then cry out of Marcius 'O if he
+Had borne the business!' [ANSWER] VERSE [END]
+[CLASSIFY] DUKE VINCENTIO:
+She should this Angelo have married; was affianced
+to her by oath, and the nuptial appointed: between
+which time of the contract and limit of the
+solemnity, her brother Frederick was wrecked at sea,
+having in that perished vessel the dowry of his
+sister. But mark how heavily this befell to the
+poor gentlewoman: there she lost a noble and
+renowned brother, in his love toward her ever most
+kind and natural; with him, the portion and sinew of
+her fortune, her marriage-dowry; with both, her
+combinate husband, this well-seeming Angelo. [ANSWER] VERSE [END]
+[CLASSIFY] SLY:
+Am I a lord? and have I such a lady?
+Or do I dream? or have I dream'd till now?
+I do not sleep: I see, I hear, I speak;
+I smell sweet savours and I feel soft things:
+Upon my life, I am a lord indeed
+And not a tinker nor Christophero Sly.
+Well, bring our lady hither to our sight;
+And once again, a pot o' the smallest ale. [ANSWER] VERSE [END]
+[CLASSIFY] CORIOLANUS:
+Well then, I pray, your price o' the consulship? [ANSWER] PROSE [END]
+[CLASSIFY] MENENIUS:
+Masters of the people,
+Your multiplying spawn how can he flatter--
+That's thousand to one good one--when you now see
+He had rather venture all his limbs for honour
+Than one on's ears to hear it? Proceed, Cominius. [ANSWER] VERSE [END]
+[CLASSIFY] BIANCA:
+If you affect him, sister, here I swear
+I'll plead for you myself, but you shall have
+him. [ANSWER] VERSE [END]
+[CLASSIFY] ANTIGONUS:
+I did not, sir:
+These lords, my noble fellows, if they please,
+Can clear me in't. [ANSWER] VERSE [END]
+[CLASSIFY] LADY ANNE:
+Would they were basilisks, to strike thee dead! [ANSWER] PROSE [END]
+[CLASSIFY] CLIFFORD:
+Here burns my candle out; ay, here it dies,
+Which, whiles it lasted, gave King Henry light.
+O Lancaster, I fear thy overthrow
+More than my body's parting with my soul!
+My love and fear glued many friends to thee;
+And, now I fall, thy tough commixture melts.
+Impairing Henry, strengthening misproud York,
+The common people swarm like summer flies;
+And whither fly the gnats but to the sun?
+And who shines now but Henry's enemies?
+O Phoebus, hadst thou never given consent
+That Phaethon should cheque thy fiery steeds,
+Thy burning car never had scorch'd the earth!
+And, Henry, hadst thou sway'd as kings should do,
+Or as thy father and his father did,
+Giving no ground unto the house of York,
+They never then had sprung like summer flies;
+I and ten thousand in this luckless realm
+Had left no mourning widows for our death;
+And thou this day hadst kept thy chair in peace.
+For what doth cherish weeds but gentle air?
+And what makes robbers bold but too much lenity?
+Bootless are plaints, and cureless are my wounds;
+No way to fly, nor strength to hold out flight:
+The foe is merciless, and will not pity;
+For at their hands I have deserved no pity.
+The air hath got into my deadly wounds,
+And much effuse of blood doth make me faint.
+Come, York and Richard, Warwick and the rest;
+I stabb'd your fathers' bosoms, split my breast. [ANSWER] VERSE [END]
+[CLASSIFY] KING RICHARD III:
+Ely with Richmond troubles me more near
+Than Buckingham and his rash-levied army.
+Come, I have heard that fearful commenting
+Is leaden servitor to dull delay;
+Delay leads impotent and snail-paced beggary
+Then fiery expedition be my wing,
+Jove's Mercury, and herald for a king!
+Come, muster men: my counsel is my shield;
+We must be brief when traitors brave the field. [ANSWER] VERSE [END]
+[CLASSIFY] MENENIUS:
+This is good news:
+I will go meet the ladies. This Volumnia
+Is worth of consuls, senators, patricians,
+A city full; of tribunes, such as you,
+A sea and land full. You have pray'd well to-day:
+This morning for ten thousand of your throats
+I'd not have given a doit. Hark, how they joy! [ANSWER] VERSE [END]
+[CLASSIFY] LUCIO:
+If could speak so wisely under an arrest, I would
+send for certain of my creditors: and yet, to say
+the truth, I had as lief have the foppery of freedom
+as the morality of imprisonment. What's thy
+offence, Claudio? [ANSWER] VERSE [END]
+[CLASSIFY] BRUTUS:
+Say, you ne'er had done't--
+Harp on that still--but by our putting on;
+And presently, when you have drawn your number,
+Repair to the Capitol. [ANSWER] VERSE [END]
+[CLASSIFY] KING RICHARD II:
+Northumberland, thou ladder wherewithal
+The mounting Bolingbroke ascends my throne,
+The time shall not be many hours of age
+More than it is ere foul sin gathering head
+Shalt break into corruption: thou shalt think,
+Though he divide the realm and give thee half,
+It is too little, helping him to all;
+And he shall think that thou, which know'st the way
+To plant unrightful kings, wilt know again,
+Being ne'er so little urged, another way
+To pluck him headlong from the usurped throne.
+The love of wicked men converts to fear;
+That fear to hate, and hate turns one or both
+To worthy danger and deserved death. [ANSWER] VERSE [END]
+[CLASSIFY] MENENIUS:
+I'll bring him to you.
+Let me desire your company: he must come,
+Or what is worst will follow. [ANSWER] VERSE [END]
+[CLASSIFY] Son:
+Ill blows the wind that profits nobody.
+This man, whom hand to hand I slew in fight,
+May be possessed with some store of crowns;
+And I, that haply take them from him now,
+May yet ere night yield both my life and them
+To some man else, as this dead man doth me.
+Who's this? O God! it is my father's face,
+Whom in this conflict I unwares have kill'd.
+O heavy times, begetting such events!
+From London by the king was I press'd forth;
+My father, being the Earl of Warwick's man,
+Came on the part of York, press'd by his master;
+And I, who at his hands received my life, him
+Have by my hands of life bereaved him.
+Pardon me, God, I knew not what I did!
+And pardon, father, for I knew not thee!
+My tears shall wipe away these bloody marks;
+And no more words till they have flow'd their fill. [ANSWER] VERSE [END]
+[CLASSIFY] QUEEN ELIZABETH:
+Come, come, my boy; we will to sanctuary.
+Madam, farewell. [ANSWER] VERSE [END]
+[CLASSIFY] VOLUMNIA:
+He had, before this last expedition, twenty-five
+wounds upon him. [ANSWER] VERSE [END]
+[CLASSIFY] RICHARD:
+Great Lord of Warwick, if we should recount
+Our baleful news, and at each word's deliverance
+Stab poniards in our flesh till all were told,
+The words would add more anguish than the wounds.
+O valiant lord, the Duke of York is slain! [ANSWER] VERSE [END]
+[CLASSIFY] RIVERS:
+Were you well served, you would be taught your duty. [ANSWER] PROSE [END]
+[CLASSIFY] FRIAR PETER:
+I know him for a man divine and holy;
+Not scurvy, nor a temporary meddler,
+As he's reported by this gentleman;
+And, on my trust, a man that never yet
+Did, as he vouches, misreport your grace. [ANSWER] VERSE [END]
+[CLASSIFY] JULIET:
+I'll look to like, if looking liking move:
+But no more deep will I endart mine eye
+Than your consent gives strength to make it fly. [ANSWER] VERSE [END]
+[CLASSIFY] BIONDELLO:
+When he stands where I am and sees you there. [ANSWER] PROSE [END]
+[CLASSIFY] WARWICK:
+Then, gentle Clarence, welcome unto Warwick;
+And welcome, Somerset: I hold it cowardice
+To rest mistrustful where a noble heart
+Hath pawn'd an open hand in sign of love;
+Else might I think that Clarence, Edward's brother,
+Were but a feigned friend to our proceedings:
+But welcome, sweet Clarence; my daughter shall be thine.
+And now what rests but, in night's coverture,
+Thy brother being carelessly encamp'd,
+His soldiers lurking in the towns about,
+And but attended by a simple guard,
+We may surprise and take him at our pleasure?
+Our scouts have found the adventure very easy:
+That as Ulysses and stout Diomede
+With sleight and manhood stole to Rhesus' tents,
+And brought from thence the Thracian fatal steeds,
+So we, well cover'd with the night's black mantle,
+At unawares may beat down Edward's guard
+And seize himself; I say not, slaughter him,
+For I intend but only to surprise him.
+You that will follow me to this attempt,
+Applaud the name of Henry with your leader.
+Why, then, let's on our way in silent sort:
+For Warwick and his friends, God and Saint George!
+3 KING HENRY VI [ANSWER] VERSE [END]
+[CLASSIFY] TYBALT:
+This, by his voice, should be a Montague.
+Fetch me my rapier, boy. What dares the slave
+Come hither, cover'd with an antic face,
+To fleer and scorn at our solemnity?
+Now, by the stock and honour of my kin,
+To strike him dead, I hold it not a sin. [ANSWER] VERSE [END]
+[CLASSIFY] Mayor:
+True, my good lord; I know you for no less. [ANSWER] PROSE [END]
+[CLASSIFY] LEONTES:
+The fixture of her eye has motion in't,
+As we are mock'd with art. [ANSWER] VERSE [END]
+[CLASSIFY] MENENIUS:
+I tell thee, fellow,
+The general is my lover: I have been
+The book of his good acts, whence men have read
+His name unparallel'd, haply amplified;
+For I have ever verified my friends,
+Of whom he's chief, with all the size that verity
+Would without lapsing suffer: nay, sometimes,
+Like to a bowl upon a subtle ground,
+I have tumbled past the throw; and in his praise
+Have almost stamp'd the leasing: therefore, fellow,
+I must have leave to pass. [ANSWER] VERSE [END]
+[CLASSIFY] QUEEN ELIZABETH:
+Shall I go win my daughter to thy will? [ANSWER] PROSE [END]
+[CLASSIFY] LEONTES:
+Do, Paulina;
+For this affliction has a taste as sweet
+As any cordial comfort. Still, methinks,
+There is an air comes from her: what fine chisel
+Could ever yet cut breath? Let no man mock me,
+For I will kiss her. [ANSWER] VERSE [END]
+[CLASSIFY] LEONTES:
+To see his nobleness!
+Conceiving the dishonour of his mother,
+He straight declined, droop'd, took it deeply,
+Fasten'd and fix'd the shame on't in himself,
+Threw off his spirit, his appetite, his sleep,
+And downright languish'd. Leave me solely: go,
+See how he fares.
+Fie, fie! no thought of him:
+The thought of my revenges that way
+Recoil upon me: in himself too mighty,
+And in his parties, his alliance; let him be
+Until a time may serve: for present vengeance,
+Take it on her. Camillo and Polixenes
+Laugh at me, make their pastime at my sorrow:
+They should not laugh if I could reach them, nor
+Shall she within my power. [ANSWER] VERSE [END]
+[CLASSIFY] Messenger:
+Such news, my lord, as grieves me to unfold. [ANSWER] PROSE [END]
+[CLASSIFY] BAPTISTA:
+Now, by my holidame, here comes Katharina! [ANSWER] PROSE [END]
+[CLASSIFY] MIRANDA:
+Why speaks my father so ungently? This
+Is the third man that e'er I saw, the first
+That e'er I sigh'd for: pity move my father
+To be inclined my way! [ANSWER] VERSE [END]
+[CLASSIFY] CAPULET:
+What should it be, that they so shriek abroad? [ANSWER] PROSE [END]
+[CLASSIFY] HORTENSIO:
+Faith, as you say, there's small choice in rotten
+apples. But come; since this bar in law makes us
+friends, it shall be so far forth friendly
+maintained all by helping Baptista's eldest daughter
+to a husband we set his youngest free for a husband,
+and then have to't a fresh. Sweet Bianca! Happy man
+be his dole! He that runs fastest gets the ring.
+How say you, Signior Gremio? [ANSWER] VERSE [END]
+[CLASSIFY] DUCHESS OF YORK:
+Hadst thou groan'd for him
+As I have done, thou wouldst be more pitiful.
+But now I know thy mind; thou dost suspect
+That I have been disloyal to thy bed,
+And that he is a bastard, not thy son:
+Sweet York, sweet husband, be not of that mind:
+He is as like thee as a man may be,
+Not like to me, or any of my kin,
+And yet I love him. [ANSWER] VERSE [END]
+[CLASSIFY] ANGELO:
+Dispose of her
+To some more fitter place, and that with speed. [ANSWER] VERSE [END]
+[CLASSIFY] BRUTUS:
+By the consent of all, we were establish'd
+The people's magistrates. [ANSWER] VERSE [END]
+[CLASSIFY] HENRY BOLINGBROKE:
+Noble lords,
+Go to the rude ribs of that ancient castle;
+Through brazen trumpet send the breath of parley
+Into his ruin'd ears, and thus deliver:
+Henry Bolingbroke
+On both his knees doth kiss King Richard's hand
+And sends allegiance and true faith of heart
+To his most royal person, hither come
+Even at his feet to lay my arms and power,
+Provided that my banishment repeal'd
+And lands restored again be freely granted:
+If not, I'll use the advantage of my power
+And lay the summer's dust with showers of blood
+Rain'd from the wounds of slaughter'd Englishmen:
+The which, how far off from the mind of Bolingbroke
+It is, such crimson tempest should bedrench
+The fresh green lap of fair King Richard's land,
+My stooping duty tenderly shall show.
+Go, signify as much, while here we march
+Upon the grassy carpet of this plain.
+Let's march without the noise of threatening drum,
+That from this castle's tatter'd battlements
+Our fair appointments may be well perused.
+Methinks King Richard and myself should meet
+With no less terror than the elements
+Of fire and water, when their thundering shock
+At meeting tears the cloudy cheeks of heaven.
+Be he the fire, I'll be the yielding water:
+The rage be his, whilst on the earth I rain
+My waters; on the earth, and not on him.
+March on, and mark King Richard how he looks.
+See, see, King Richard doth himself appear,
+As doth the blushing discontented sun
+From out the fiery portal of the east,
+When he perceives the envious clouds are bent
+To dim his glory and to stain the track
+Of his bright passage to the occident. [ANSWER] VERSE [END]
+[CLASSIFY] DUKE VINCENTIO:
+Come hither, Isabel.
+Your friar is now your prince: as I was then
+Advertising and holy to your business,
+Not changing heart with habit, I am still
+Attorney'd at your service. [ANSWER] VERSE [END]
+[CLASSIFY] TRANIO:
+Let us entreat you stay till after dinner. [ANSWER] PROSE [END]
+[CLASSIFY] DUKE VINCENTIO:
+I know none. Can you tell me of any? [ANSWER] PROSE [END]
+[CLASSIFY] QUEEN ELIZABETH:
+Here, Hastings; I will never more remember
+Our former hatred, so thrive I and mine! [ANSWER] VERSE [END]
+[CLASSIFY] QUEEN:
+'Tis nothing less: conceit is still derived
+From some forefather grief; mine is not so,
+For nothing had begot my something grief;
+Or something hath the nothing that I grieve:
+'Tis in reversion that I do possess;
+But what it is, that is not yet known; what
+I cannot name; 'tis nameless woe, I wot. [ANSWER] VERSE [END]
+[CLASSIFY] POLIXENES:
+As thou lovest me, Camillo, wipe not out the rest of
+thy services by leaving me now: the need I have of
+thee thine own goodness hath made; better not to
+have had thee than thus to want thee: thou, having
+made me businesses which none without thee can
+sufficiently manage, must either stay to execute
+them thyself or take away with thee the very
+services thou hast done; which if I have not enough
+considered, as too much I cannot, to be more
+thankful to thee shall be my study, and my profit
+therein the heaping friendships. Of that fatal
+country, Sicilia, prithee speak no more; whose very
+naming punishes me with the remembrance of that
+penitent, as thou callest him, and reconciled king,
+my brother; whose loss of his most precious queen
+and children are even now to be afresh lamented.
+Say to me, when sawest thou the Prince Florizel, my
+son? Kings are no less unhappy, their issue not
+being gracious, than they are in losing them when
+they have approved their virtues. [ANSWER] VERSE [END]
+[CLASSIFY] JOHN OF GAUNT:
+O, but they say the tongues of dying men
+Enforce attention like deep harmony:
+Where words are scarce, they are seldom spent in vain,
+For they breathe truth that breathe their words in pain.
+He that no more must say is listen'd more
+Than they whom youth and ease have taught to glose;
+More are men's ends mark'd than their lives before:
+The setting sun, and music at the close,
+As the last taste of sweets, is sweetest last,
+Writ in remembrance more than things long past:
+Though Richard my life's counsel would not hear,
+My death's sad tale may yet undeaf his ear. [ANSWER] VERSE [END]
+[CLASSIFY] VOLUMNIA:
+At thy choice, then:
+To beg of thee, it is my more dishonour
+Than thou of them. Come all to ruin; let
+Thy mother rather feel thy pride than fear
+Thy dangerous stoutness, for I mock at death
+With as big heart as thou. Do as thou list
+Thy valiantness was mine, thou suck'dst it from me,
+But owe thy pride thyself. [ANSWER] VERSE [END]
+[CLASSIFY] VALERIA:
+How do you both? you are manifest house-keepers.
+What are you sewing here? A fine spot, in good
+faith. How does your little son? [ANSWER] VERSE [END]
+[CLASSIFY] KING EDWARD IV:
+Brave followers, yonder stands the thorny wood,
+Which, by the heavens' assistance and your strength,
+Must by the roots be hewn up yet ere night.
+I need not add more fuel to your fire,
+For well I wot ye blaze to burn them out
+Give signal to the fight, and to it, lords! [ANSWER] VERSE [END]
+[CLASSIFY] GRUMIO:
+And therefore 'tis called a sensible tale: and this
+cuff was but to knock at your ear, and beseech
+listening. Now I begin: Imprimis, we came down a
+foul hill, my master riding behind my mistress,-- [ANSWER] VERSE [END]
+[CLASSIFY] CLARENCE:
+A little fire is quickly trodden out;
+Which, being suffer'd, rivers cannot quench. [ANSWER] VERSE [END]
+[CLASSIFY] GRUMIO:
+Ay, sir, they be ready: the oats have eaten the horses. [ANSWER] PROSE [END]
+[CLASSIFY] MENENIUS:
+Is this the promise that you made your mother? [ANSWER] PROSE [END]
+[CLASSIFY] ANTONIO:
+Nor I; my spirits are nimble.
+They fell together all, as by consent;
+They dropp'd, as by a thunder-stroke. What might,
+Worthy Sebastian? O, what might?--No more:--
+And yet me thinks I see it in thy face,
+What thou shouldst be: the occasion speaks thee, and
+My strong imagination sees a crown
+Dropping upon thy head. [ANSWER] VERSE [END]
+[CLASSIFY] KING HENRY VI:
+Be patient, gentle Earl of Westmoreland. [ANSWER] PROSE [END]
+[CLASSIFY] KING HENRY VI:
+My lords, look where the sturdy rebel sits,
+Even in the chair of state: belike he means,
+Back'd by the power of Warwick, that false peer,
+To aspire unto the crown and reign as king.
+Earl of Northumberland, he slew thy father.
+And thine, Lord Clifford; and you both have vow'd revenge
+On him, his sons, his favourites and his friends. [ANSWER] VERSE [END]
+[CLASSIFY] NORFOLK:
+Six or seven thousand is their utmost power. [ANSWER] PROSE [END]
+[CLASSIFY] First Soldier:
+Following the fliers at the very heels,
+With them he enters; who, upon the sudden,
+Clapp'd to their gates: he is himself alone,
+To answer all the city. [ANSWER] VERSE [END]
+[CLASSIFY] KING RICHARD II:
+Tell me, moreover, hast thou sounded him,
+If he appeal the duke on ancient malice;
+Or worthily, as a good subject should,
+On some known ground of treachery in him? [ANSWER] VERSE [END]
+[CLASSIFY] HENRY BOLINGBROKE:
+Intended or committed was this fault?
+If on the first, how heinous e'er it be,
+To win thy after-love I pardon thee. [ANSWER] VERSE [END]
+[CLASSIFY] MONTAGUE:
+Not Romeo, prince, he was Mercutio's friend;
+His fault concludes but what the law should end,
+The life of Tybalt. [ANSWER] VERSE [END]
+[CLASSIFY] ANGELO:
+Did not I tell thee yea? hadst thou not order?
+Why dost thou ask again? [ANSWER] VERSE [END]
+[CLASSIFY] FERDINAND:
+O, if a virgin,
+And your affection not gone forth, I'll make you
+The queen of Naples. [ANSWER] VERSE [END]
+[CLASSIFY] LUCENTIO:
+O Tranio, till I found it to be true,
+I never thought it possible or likely;
+But see, while idly I stood looking on,
+I found the effect of love in idleness:
+And now in plainness do confess to thee,
+That art to me as secret and as dear
+As Anna to the queen of Carthage was,
+Tranio, I burn, I pine, I perish, Tranio,
+If I achieve not this young modest girl.
+Counsel me, Tranio, for I know thou canst;
+Assist me, Tranio, for I know thou wilt. [ANSWER] VERSE [END]
+[CLASSIFY] ARIEL:
+Not a hair perish'd;
+On their sustaining garments not a blemish,
+But fresher than before: and, as thou badest me,
+In troops I have dispersed them 'bout the isle.
+The king's son have I landed by himself;
+Whom I left cooling of the air with sighs
+In an odd angle of the isle and sitting,
+His arms in this sad knot. [ANSWER] VERSE [END]
+[CLASSIFY] AUTOLYCUS:
+And indeed, sir, there are cozeners abroad;
+therefore it behoves men to be wary. [ANSWER] VERSE [END]
+[CLASSIFY] KING EDWARD IV:
+Nay, stay, Sir John, awhile, and we'll debate
+By what safe means the crown may be recover'd. [ANSWER] VERSE [END]
+[CLASSIFY] LADY CAPULET:
+No, not till Thursday; there is time enough. [ANSWER] PROSE [END]
+[CLASSIFY] Second Servingman:
+So did I, I'll be sworn: he is simply the rarest
+man i' the world. [ANSWER] VERSE [END]
+[CLASSIFY] OXFORD:
+Ay, for if Edward repossess the crown,
+'Tis like that Richmond with the rest shall down. [ANSWER] VERSE [END]
+[CLASSIFY] ROMEO:
+O, she doth teach the torches to burn bright!
+It seems she hangs upon the cheek of night
+Like a rich jewel in an Ethiope's ear;
+Beauty too rich for use, for earth too dear!
+So shows a snowy dove trooping with crows,
+As yonder lady o'er her fellows shows.
+The measure done, I'll watch her place of stand,
+And, touching hers, make blessed my rude hand.
+Did my heart love till now? forswear it, sight!
+For I ne'er saw true beauty till this night. [ANSWER] VERSE [END]
+[CLASSIFY] AUFIDIUS:
+Therefore, most absolute sir, if thou wilt have
+The leading of thine own revenges, take
+The one half of my commission; and set down--
+As best thou art experienced, since thou know'st
+Thy country's strength and weakness,--thine own ways;
+Whether to knock against the gates of Rome,
+Or rudely visit them in parts remote,
+To fright them, ere destroy. But come in:
+Let me commend thee first to those that shall
+Say yea to thy desires. A thousand welcomes!
+And more a friend than e'er an enemy;
+Yet, Marcius, that was much. Your hand: most welcome! [ANSWER] VERSE [END]
+[CLASSIFY] MENENIUS:
+I know you can do very little alone; for your helps
+are many, or else your actions would grow wondrous
+single: your abilities are too infant-like for
+doing much alone. You talk of pride: O that you
+could turn your eyes toward the napes of your necks,
+and make but an interior survey of your good selves!
+O that you could! [ANSWER] VERSE [END]
+[CLASSIFY] MIRANDA:
+I should sin
+To think but nobly of my grandmother:
+Good wombs have borne bad sons. [ANSWER] VERSE [END]
+[CLASSIFY] ESCALUS:
+Call that same Isabel here once again; I would speak with her.
+Pray you, my lord, give me leave to question; you
+shall see how I'll handle her. [ANSWER] VERSE [END]
+[CLASSIFY] ROMEO:
+Good morrow to you both. What counterfeit did I give you? [ANSWER] PROSE [END]
+[CLASSIFY] JOHN OF GAUNT:
+All places that the eye of heaven visits
+Are to a wise man ports and happy havens.
+Teach thy necessity to reason thus;
+There is no virtue like necessity.
+Think not the king did banish thee,
+But thou the king. Woe doth the heavier sit,
+Where it perceives it is but faintly borne.
+Go, say I sent thee forth to purchase honour
+And not the king exiled thee; or suppose
+Devouring pestilence hangs in our air
+And thou art flying to a fresher clime:
+Look, what thy soul holds dear, imagine it
+To lie that way thou go'st, not whence thou comest:
+Suppose the singing birds musicians,
+The grass whereon thou tread'st the presence strew'd,
+The flowers fair ladies, and thy steps no more
+Than a delightful measure or a dance;
+For gnarling sorrow hath less power to bite
+The man that mocks at it and sets it light. [ANSWER] VERSE [END]
+[CLASSIFY] DUKE VINCENTIO:
+Good friar, let's hear it.
+Do you not smile at this, Lord Angelo?
+O heaven, the vanity of wretched fools!
+Give us some seats. Come, cousin Angelo;
+In this I'll be impartial; be you judge
+Of your own cause. Is this the witness, friar?
+First, let her show her face, and after speak. [ANSWER] VERSE [END]
+[CLASSIFY] OXFORD:
+Why, Warwick, canst thou speak against thy liege,
+Whom thou obeyed'st thirty and six years,
+And not bewray thy treason with a blush? [ANSWER] VERSE [END]
+[CLASSIFY] CORIOLANUS:
+Though there the people had more absolute power,
+I say, they nourish'd disobedience, fed
+The ruin of the state. [ANSWER] VERSE [END]
+[CLASSIFY] HENRY BOLINGBROKE:
+They love not poison that do poison need,
+Nor do I thee: though I did wish him dead,
+I hate the murderer, love him murdered.
+The guilt of conscience take thou for thy labour,
+But neither my good word nor princely favour:
+With Cain go wander through shades of night,
+And never show thy head by day nor light.
+Lords, I protest, my soul is full of woe,
+That blood should sprinkle me to make me grow:
+Come, mourn with me for that I do lament,
+And put on sullen black incontinent:
+I'll make a voyage to the Holy Land,
+To wash this blood off from my guilty hand:
+March sadly after; grace my mournings here;
+In weeping after this untimely bier. [ANSWER] VERSE [END]
+[CLASSIFY] ISABELLA:
+I am now going to resolve him: I had rather my
+brother die by the law than my son should be
+unlawfully born. But, O, how much is the good duke
+deceived in Angelo! If ever he return and I can
+speak to him, I will open my lips in vain, or
+discover his government. [ANSWER] VERSE [END]
+[CLASSIFY] GLOUCESTER:
+How fares our cousin, noble Lord of York? [ANSWER] PROSE [END]
+[CLASSIFY] KING EDWARD IV:
+Why then 'tis mine, if but by Warwick's gift. [ANSWER] PROSE [END]
+[CLASSIFY] CLARENCE:
+O, no, he loves me, and he holds me dear:
+Go you to him from me. [ANSWER] VERSE [END]
+[CLASSIFY] VINCENTIO:
+What am I, sir! nay, what are you, sir? O immortal
+gods! O fine villain! A silken doublet! a velvet
+hose! a scarlet cloak! and a copatain hat! O, I
+am undone! I am undone! while I play the good
+husband at home, my son and my servant spend all at
+the university. [ANSWER] VERSE [END]
+[CLASSIFY] KING HENRY VI:
+Hadst thou been kill'd when first thou didst presume,
+Thou hadst not lived to kill a son of mine.
+And thus I prophesy, that many a thousand,
+Which now mistrust no parcel of my fear,
+And many an old man's sigh and many a widow's,
+And many an orphan's water-standing eye--
+Men for their sons, wives for their husbands,
+And orphans for their parents timeless death--
+Shall rue the hour that ever thou wast born.
+The owl shriek'd at thy birth,--an evil sign;
+The night-crow cried, aboding luckless time;
+Dogs howl'd, and hideous tempest shook down trees;
+The raven rook'd her on the chimney's top,
+And chattering pies in dismal discords sung.
+Thy mother felt more than a mother's pain,
+And, yet brought forth less than a mother's hope,
+To wit, an indigested and deformed lump,
+Not like the fruit of such a goodly tree.
+Teeth hadst thou in thy head when thou wast born,
+To signify thou camest to bite the world:
+And, if the rest be true which I have heard,
+Thou camest-- [ANSWER] VERSE [END]
+[CLASSIFY] TRANIO:
+Dally not with the gods, but get thee gone.
+Signior Baptista, shall I lead the way?
+Welcome! one mess is like to be your cheer:
+Come, sir; we will better it in Pisa. [ANSWER] VERSE [END]
+[CLASSIFY] WARWICK:
+Ay, that's the first thing that we have to do;
+To free King Henry from imprisonment
+And see him seated in the regal throne.
+3 KING HENRY VI [ANSWER] VERSE [END]
+[CLASSIFY] KING EDWARD IV:
+Why, then thou shalt not have thy husband's lands. [ANSWER] PROSE [END]
+[CLASSIFY] First Watchman:
+Here is a friar, and slaughter'd Romeo's man;
+With instruments upon them, fit to open
+These dead men's tombs. [ANSWER] VERSE [END]
+[CLASSIFY] VAUGHAN:
+You live that shall cry woe for this after. [ANSWER] PROSE [END]
+[CLASSIFY] SIR STEPHEN SCROOP:
+Peace have they made with him indeed, my lord. [ANSWER] PROSE [END]
+[CLASSIFY] PAULINA:
+Do not you fear: upon mine honour,
+I will stand betwixt you and danger. [ANSWER] VERSE [END]
+[CLASSIFY] First Murderer:
+Take him over the costard with the hilts of thy
+sword, and then we will chop him in the malmsey-butt
+in the next room. [ANSWER] VERSE [END]
+[CLASSIFY] Second Citizen:
+Consider you what services he has done for his country? [ANSWER] PROSE [END]
+[CLASSIFY] QUEEN MARGARET:
+Go, rate thy minions, proud insulting boy!
+Becomes it thee to be thus bold in terms
+Before thy sovereign and thy lawful king? [ANSWER] VERSE [END]

@@ -1,5 +1,5 @@
 """
-Generates four figures from results.json:
+Generates four figures from task1_train_results.json:
   1. figures/fig1_loss_grid.png       – heatmap table of final val loss
   2. figures/fig2_scaling_plots.png   – (a) loss vs params, (b) loss vs data, (c) loss vs FLOPs
   3. figures/fig3_compute_frontier.png – compute-optimal frontier
@@ -13,7 +13,7 @@ from pathlib import Path
 
 # ── data ─────────────────────────────────────────────────────────────────────
 ROOT = Path(__file__).parent
-data = json.loads((ROOT / "results.json").read_text())
+data = json.loads((ROOT / "task1_train_results.json").read_text())
 complete = [r for r in data if r["final_val_loss"] is not None]
 
 SIZE_ORDER  = ["XS", "S", "M", "L"]

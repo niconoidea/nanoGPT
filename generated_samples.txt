@@ -1,43 +1,62 @@
 === PRETRAINED ===
 
+Proffer:
+I have with take so his false follows?
 
-AUFIDIUS:
-It it be my lords.
-SICINIUS:
-Would nothing with words.
+PAULINA:
+My lord, Warwick?
 
-WARWICK:
-How your king of the auntiment loves the doth perform,
-I moner behold chose to too sister, thou art thou,
-Sir, but for should doth eavy skaw to be!
-3 KING HENRY VI:
-But he daughter what strikes, I say?
-So may lords best one 
+HORTENSIO:
+Ghom but but you out a justice way.
 
-=== SINGLE A ===
+CORIOLANUS:
+Anow, most Sonry, sir! errawly.
 
-[SPEAKER] Longer, make merry! [ANSWER] DUKE VINCENTIO [END]
-[SPEAKER] And that to much I strike at all be [ANSWER] MENENIUS [END]
-[SPEAKER] Do not woeful are of his partity, some mummost of [ANSWER] PETRUCHIO [END]
-[SPEAKER] The dear unall in a-man scovereignted to tell. [ANSWER] KING RICHARD II [EN
+EDWARD:
+God at a the pace him if thell: so no you,
+Let my enough'd please thy house?
 
-=== SINGLE B ===
+MAMILLIUS:
+Why, were him;
+Let my fair's fed.
 
-I have a badged 'tis not deament. [ANSWER] VERSE [END]
-[CLASSIFY] Prizman:
-I do have love you with half--, diving thy state
-That thy be mine. [ANSWER] VERSE [END]
-[CLASSIFY] GREMIO:
-True is:
-I have it is the doth leave be a will content
-Is as thou better and put his piecies,
-Unhis after his prayers 
+=== BEST SINGLE A ===
 
-=== MULTI ===
+[SPEAKER] [All devisers in she caraved with lip; [ANSWER] LEONTES [END]
+[SPEAKER] Edway, thou ANSWER] JULIET [END]
+[SPEAKER] So shall begard, Jule, thout art not so hour sudge; [ANSWER] ROMEO [END]
+[SPEAKER] Name honest form my speech lay to the [ANSWER] LEONTES [END]
+[SPEAKER] I take my comes thou 
 
-Whose I have nor of the just any call
-Believed Bona queen. [ANSWER] VERSE [END]
-[SPEAKER] My lord: in ssoul: but I have says the slace. [ANSWER] VERSE [END]
-[SPEAKER] Mistruck were thee follower dry sun. [ANSWER] VERSE [END]
-[CLASSIFY] PETRUCHIO:
-And they would not thy quardy of princege. [ANSWER] V
+=== BEST SINGLE B ===
+
+[CLASSIFY] NORTHUMBERLAND:
+The sore, let him dishonour bring what with the reful should
+That provice his proceed: or
+call as the world for this lighty of fluder,
+But that more 'God comminious dewn show you
+To grief himself have jeen to mind sort.
+I am not, sir; for my mother;
+I well sway heaven send
+
+=== BEST MULTI A ===
+
+Which, heaven, and so.
+Not the aboad yet absecoves of him;
+Which, his is listren gates him, so they drink,
+For counsells, that where you knowledge! Come,
+him fearful to deadly b treak. [ANSWER] VERSE [END]
+[CLASSIFY] PROSPERO:
+It shall shall been you to Earl a stroy?
+But of be pointent: too it self 
+
+=== BEST MULTI B ===
+
+[ANSWER] VERSE [END]
+[CLASSIFY] Fortune:
+I'll for the pardon all secreived, for my son'd:
+I would I live myself; ] and sour senated exquesting cause.
+And mother virtues,' and first: she saweell arest,
+And being: there looks our rest,--and well. I must
+For heart the fixtul will of the strong,
+His ene

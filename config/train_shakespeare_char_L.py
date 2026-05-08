@@ -23,4 +23,4 @@ beta2 = 0.99
 warmup_iters = 100
 weight_decay = 1e-1
 device = 'cuda' # change to 'cuda' if you have a GPU
-compile = True # set True only on Linux with GPU
+compile = False  # torch.compile needs Triton (Linux); on Windows leave False

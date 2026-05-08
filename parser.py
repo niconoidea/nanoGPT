@@ -12,7 +12,7 @@ import re
 from pathlib import Path
 
 LOG_DIR = Path(__file__).parent / "logs"
-OUTPUT_FILE = Path(__file__).parent / "results.json"
+OUTPUT_FILE = Path(__file__).parent / "task1_train_results.json"
 
 # Patterns
 RE_DECAYED     = re.compile(r"num decayed parameter tensors:\s+\d+,\s+with\s+([\d,]+)\s+parameters")

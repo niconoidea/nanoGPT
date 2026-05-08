@@ -1,0 +1,68 @@
+[
+  {
+    "learning_rate": 0.0001,
+    "max_iters": 1000,
+    "acc_A_single": 0.11400000000000002,
+    "acc_B_single": 0.658,
+    "acc_A_multi": 0.08,
+    "acc_B_multi": 0.726,
+    "val_A": 2.390233166217804,
+    "val_B": 1.6303829276561737,
+    "val_multi": 1.6264785254001617
+  },
+  {
+    "learning_rate": 0.0001,
+    "max_iters": 2000,
+    "acc_A_single": 0.11400000000000002,
+    "acc_B_single": 0.6679999999999999,
+    "acc_A_multi": 0.11400000000000002,
+    "acc_B_multi": 0.826,
+    "val_A": 2.8800094985961913,
+    "val_B": 1.656841447353363,
+    "val_multi": 1.6493191802501679
+  },
+  {
+    "learning_rate": 0.0001,
+    "max_iters": 3000,
+    "acc_A_single": 0.12,
+    "acc_B_single": 0.858,
+    "acc_A_multi": 0.11399999999999999,
+    "acc_B_multi": 0.8480000000000001,
+    "val_A": 3.441619379520416,
+    "val_B": 1.6903529512882232,
+    "val_multi": 1.6686280024051667
+  },
+  {
+    "learning_rate": 5e-05,
+    "max_iters": 1000,
+    "acc_A_single": 0.078,
+    "acc_B_single": 0.686,
+    "acc_A_multi": 0.08,
+    "acc_B_multi": 0.65,
+    "val_A": 2.1626033687591555,
+    "val_B": 1.5993286073207855,
+    "val_multi": 1.6164683198928833
+  },
+  {
+    "learning_rate": 5e-05,
+    "max_iters": 2000,
+    "acc_A_single": 0.126,
+    "acc_B_single": 0.674,
+    "acc_A_multi": 0.078,
+    "acc_B_multi": 0.788,
+    "val_A": 2.4263978099822996,
+    "val_B": 1.617135294675827,
+    "val_multi": 1.6175743854045868
+  },
+  {
+    "learning_rate": 5e-05,
+    "max_iters": 3000,
+    "acc_A_single": 0.11400000000000002,
+    "acc_B_single": 0.6679999999999999,
+    "acc_A_multi": 0.11600000000000002,
+    "acc_B_multi": 0.8240000000000001,
+    "val_A": 2.7136569023132324,
+    "val_B": 1.6342002582550048,
+    "val_multi": 1.6258520770072937
+  }
+]

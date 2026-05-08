@@ -1,0 +1,11 @@
+======================================================================
+Run 1/1  |  size=S  split=100%
+Config : config/train_shakespeare_char_S.py
+Out dir: out-shakespeare-S-split100
+Log    : logs\train_S_split100.log
+======================================================================
+Command: C:\Code\_projects\nanoGPT-nlp\.venv\Scripts\python.exe train.py config/train_shakespeare_char_S.py --train_file=train_100.bin --out_dir=out-shakespeare-S-split100 --wandb_run_name=S-split100
+
+C:\Code\_projects\nanoGPT-nlp\.venv\Scripts\python.exe: can't open file 'C:\\Code\\_projects\\nlp\\nanoGPT\\data\\shakespeare_char\\train.py': [Errno 2] No such file or directory
+
+Exit code: 2
